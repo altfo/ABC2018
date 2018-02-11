@@ -1,0 +1,726 @@
+{
+  "Location": {
+    "Name": "Singapore",
+    "Latitude": 1.282387,
+    "Longitude": 103.850243,
+    "Address": "1 Marina Blvd, <br/> #22-01 One Marina Boulevard <br/> Singapore 018989"
+  },
+  "Social": {
+    "Meetup": "http://www.meetup.com/mssgug/",
+    "Facebook": "https://www.facebook.com/groups/MSTechCommunitiesSG/",
+    "Website": ""
+  },
+
+  "Campaigns": [
+    {
+      "Text": "Survey",
+      "Link": "#"
+    }
+  ],
+  "Organizers": [
+    {
+      "Name": "Mohamed Faizal",
+      "Description": "Technology Solutions Professionals, Microsoft",
+      "ImageUrl": "~/images/faizal.png",
+      "Social": {
+        "Blog": "",
+        "Twitter": "http://www.twitter.com/"
+      }
+    },
+    {
+      "Name": "Puneet Ghanshani",
+      "Description": "Microsoft",
+      "ImageUrl": "~/images/punit.png",
+      "Social": {
+        "Blog": "",
+        "Twitter": "http://www.twitter.com/ganshani",
+        "Github": "https://github.com/punitganshani"
+      }
+    },
+    {
+      "Name": "Sakthis Kumar",
+      "Description": "Azure MVP",
+      "ImageUrl": "~/images/sakthis.png",
+      "Social": {
+        "Blog": "",
+        "Twitter": "http://www.twitter.com/sakthis"
+      }
+    },
+    {
+      "Name": "Senthamil Selvan",
+      "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+      "ImageUrl": "~/images/sen.jpg",
+      "Social": {
+        "Blog": "http://altfo.wordpress.com",
+        "Twitter": "http://www.twitter.com/altfo"
+      }
+    }
+  ],
+  "Sponsors": [
+    
+  ],
+  "Prizes": [
+
+  ],
+  "Tracks": [
+    {
+      "Day": "21 April 2018",
+      "Name": "Developer Track (Room - MR01)",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Keynote"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "Session1",
+          "Time": "9:15 AM - 10:15 AM",
+          "Title": "TBD"
+        },
+        {
+          "SessionId": "Session2",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "TBD"
+        },
+        {
+          "SessionId": "Session3",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "TBD"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "Session4",
+          "Time": "01:15 PM - 2:15 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "Session7",
+          "Time": "02:15 PM - 3:15 PM",
+          "Title": "Architecting Domain Driven Development for Microservices using Azure Kubernetes Service and .NET Core"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "3:15 PM - 3:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "Session5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "Using Azure Functions and Logic App to monitor and trade Cryptocurrencies"
+        },
+        {
+          "SessionId": "Session6",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    },
+    {
+      "Day": "21 April 2018",
+      "Name": "IT Pro (Room - MR02)",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Keynote"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO1",
+          "Time": "9:15 AM - 10:15 AM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "ITPRO2",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "ITPRO4",
+          "Time": "01:15 PM - 2:15 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "ITPRO5",
+          "Time": "02:15 PM - 3:15 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "3:15 PM - 3:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO6",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "ITPRO7",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    },
+    {
+      "Day": "21 April 2018",
+      "Name": "Data (Room - CF12)",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Keynote"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DATA1",
+          "Time": "9:15 AM - 10:15 AM",
+          "Title": "Building scalable distributed apps using an Azure CosmosDB"
+        },
+        {
+          "SessionId": "DATA2",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "DATA3",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DATA4",
+          "Time": "01:15 PM - 2:15 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "DATA5",
+          "Time": "02:15 PM - 3:15 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "3:15 PM - 3:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DATA6",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "DATA7",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "TBA"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    },
+    {
+      "Day": "21 April 2018",
+      "Name": "Special (Room - CF15)",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:00 AM - 8:30 AM",
+          "Title": "Registration"
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "8:30 AM - 9:00 AM",
+          "Title": "Keynote"
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "9:00 AM - 9:15 AM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "SP1",
+          "Time": "9:15 AM - 10:15 AM",
+          "Title": "Building real world Blockchain applications on Azure"
+        },
+        {
+          "SessionId": "SP2",
+          "Time": "10:15 AM - 11:15 AM",
+          "Title": "Blockchain HOL"
+        },
+        {
+          "SessionId": "SP3",
+          "Time": "11:15 AM - 12:15 PM",
+          "Title": "Blockchain HOL"
+        },
+        {
+          "SessionId": "Common6",
+          "Time": "12:15 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "SP4",
+          "Time": "01:15 PM - 2:15 PM",
+          "Title": "Hands on Workshop on Azure machine learning and Cognitive services."
+        },
+        {
+          "SessionId": "SP5",
+          "Time": "02:15 PM - 3:15 PM",
+          "Title": "Hands on Workshop on Azure machine learning and Cognitive services"
+        },
+        {
+          "SessionId": "Common8",
+          "Time": "3:15 PM - 3:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "SP6",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "HOL"
+        },
+        {
+          "SessionId": "SP7",
+          "Time": "4:30 PM - 5:30 PM",
+          "Title": "HOL"
+        },
+        {
+          "SessionId": "Common9",
+          "Time": "5:30 PM - 6:00 PM",
+          "Title": "Closing"
+        }
+      ]
+    }
+  ],
+
+  "Tracks2": [
+    {
+      "Day": "28 October 2017",
+      "Name": "DevOps & Cloud Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Slow is Smooth, Smooth is Fast",
+          "Speaker": {
+            "Name": "Steven Murawski",
+            "Description": "Steven is a Cloud Developer Advocate at Microsoft. Steven focuses on DevOps scenarios with Azure (and founding member of the League of Extraordinary Cloud DevOps Advocates). Steven is an active member of the Chef and WinOps communities and a maintainer for several open source projects, including Chef, Habitat, and Test-Kitchen. Steven followed the traditional path to IT. For8 years he owned a garden center, flower shop, and landscape business. From there, Steven went back to school for Police Science, while working as a police clerk, dispatcher, and auxiliary officer. At the police department, Steven got into IT by helping to administer the domain and applications, as well as supporting investigations via forensically examining electronic media and providing technical support. Most recently, Steven was a Principal Engineer at Chef and worked on the Community Engineering team. He helped foster new contributions and contributors to open source projects in the Chef space, as well as contributing to those projects himself. Steven also worked with the community and customers, answering questions, offering architectural and process advice, and helping move people down the DevOps path. Steven was a Microsoft MVP in Cloud and Datacenter Management (previously PowerShell) from January 2012 through June 2017, when he started work at Microsoft as a Cloud Developer Advocate.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/stevenmurawski.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/StevenMurawski"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell on IoT",
+          "Speaker": {
+            "Name": "Rakesh Karthik Kethineedi",
+            "Description": "Rakesh has been automating things for almost a decade. He is a developer-cum-scripting guy who loves PowerShell, IoT and Automation on the Cloud. He has worked on various technologies and driven number of Automation projects spreading across domains like Server Administration and Software Testing. He believes in adding quality to people's lives through automation. He is a co-organiser of Singapore Veeam User Group.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rakesh.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/rakeshkarthikk"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Creating PowerShell cmdlets",
+          "Speaker": {
+            "Name": "Rakesh Karthik Kethineedi",
+            "Description": "Rakesh has been automating things for almost a decade. He is a developer-cum-scripting guy who loves PowerShell, IoT and Automation on the Cloud. He has worked on various technologies and driven number of Automation projects spreading across domains like Server Administration and Software Testing. He believes in adding quality to people's lives through automation. He is a co-organiser of Singapore Veeam User Group.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rakesh.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/rakeshkarthikk"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "DEV03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "Core, Containers and Performance Graphics",
+          "Speaker": {
+            "Name": "Luc Dekens",
+            "Description": "Luc is a long-term vExpert and MVP. He has done sessions at VMworld (US & EMEA), at several PowerShell conferences (PowerShell & DevOps Summit, PSConfEU, Tuga IT) and at several European VMUGs. Luc is also the co-author of the PowerCLI Reference ed 1 & 2.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/LucDekens.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/LucD22"
+            }
+          }
+        },
+        {
+          "SessionId": "DEV04",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "PowerShell with Azure iOT Hub",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+            "ImageUrl": "~/images/sen.jpg",
+            "Social": {
+              "Twitter": "www.twitter.com/altfo"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "DEV05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Build a continuous delivery platform for your PowerShell scripts and modules",
+          "Speaker": {
+            "Name": "Fabien Dibot",
+            "Description": "Azure architect @ Orange Business Services, I'm the only Ops in a 40 peeps team. My goal is to provide the best infra on Azure and automate them in order to bring continuous delivery. I'm also a Cloud and Datacenter MVP and co-leader of French PowerShell User Group",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/fabien.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/fdibot"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
+        }
+      ]
+    },
+    {
+      "Day": "28 October 2017",
+      "Name": "DevOps & Security Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Slow is Smooth, Smooth is Fast"
+        },
+        {
+          "SessionId": "SEC01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "PowerShell Security - All you need to know",
+          "Speaker": {
+            "Name": "David das Neves",
+            "Description": "David is a former software developer and works now at Microsoft Germany as Premier Field Engineer with the main specialties: PowerShell, Windows 10 and Client Security. He is also focused in client workshops and dev requests. Beside his work he writes his own blog, organizes the PowerShell UG Munich and speaks at User Groups and Conferences on PS/Dev topics.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/david.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/david_das_neves"
+            }
+          }
+        },
+        {
+          "SessionId": "SEC02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Automated Offensive PowerShell APIness",
+          "Speaker": {
+            "Name": "Walter Legowski",
+            "Description": "BIO >> Walter Legowski (@SadProcessor) PowerShell Automation engineer by day Offensive PowerShell toolsmith by night French | Dutch wife | 3 kids Maker | Breaker | Trainer | n00b 4 ever Everything PowerShell...",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/WalterLegowski.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/SadProcessor"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "SEC03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "Automated DC Deployment at the BMW Group",
+          "Speaker": {
+            "Name": "Raimund Andrée",
+            "Description": "Microsoft Premier Field Engineer focusing mainly on PowerShell, DevOps and DSC",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/raimund.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/raimundandree"
+            }
+          }
+        },
+        {
+          "SessionId": "SEC04",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Meta PowerShell - Just A Layer of Convenience",
+          "Speaker": {
+            "Name": "Mathias R. Jessen",
+            "Description": "Amateur PowerShell Aficionado and a huge fan of type inference, working professionally as a Microsoft Systems Administrator with a focus on Active Directory and Security. Speaker at PSConfAsia 2016",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/mathias.jpeg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/iisresetme"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "SEC05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Revoke-Obfuscation: PowerShell Obfuscation Detection using SCIENCE!",
+          "Speaker": {
+            "Name": "Lee Holmes",
+            "Description": "Lead Security Architect for Azure Management, Azure Stack. PowerShell developer, fanatical hobbyist, and author of the Windows PowerShell Cookbook",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/leeholmes.jpg?raw=true",
+            "Social": {
+              "Twitter": "https://twitter.com/Lee_Holmes"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
+        }
+      ]
+    },
+    {
+      "Day": "28 October 2017",
+      "Name": "Configuration Management",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Slow is Smooth, Smooth is Fast"
+        },
+        {
+          "SessionId": "MGT01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "vSphereDSC - resources for a foreign environment",
+          "Speaker": {
+            "Name": "Luc Dekens",
+            "Description": "Luc has been a speaker at multiple VMworlds (US and EMEA).He also presented at the PowerShell and DevOps Summit, the PSConfEU, Tuga IT and several VMUGs in Europe. Luc is a co-author of the PowerCLI Reference ed 1 & 2",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/LucDekens.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/LucD22"
+            }
+          }
+        },
+        {
+          "SessionId": "MGT02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "SQL Server Extended Events – What are you waiting for?",
+          "Speaker": {
+            "Name": "Jonathan Allen",
+            "Description": "Jonathan started working with SQL Server in the 20th Century and has worked as a DBA supporting all versions since version 7. He is now a SQL Server PFE working for Microsoft UK working with Premier customers on proactive and reactive cases. In his spare time Jonathan helps run the SQL South West user group (www.sqlsouthwest.co.uk), the Exeter SQL Saturday and the SQLBits (www.sqlbits.com) annual conferences.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/JonathanAllen.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/fatherjack"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "MGT03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "SQL Server Cross-platform with PowerShell (core) and Python",
+          "Speaker": {
+            "Name": "Maximo Trinidad",
+            "Description": "Maximo Trinidad (Florida Aka – Mr. PowerShell) is from Puerto Rico living in Florida, has been working with SAPIEN products since early releases of PrimalScript, through the current suite of SAPIEN products.  He has been using, speaking, tweeting and blogging about Windows PowerShell since its initial release in 2006. He's Microsoft MVP in Cloud and Datacenter Management (PowerShell 9rs), SAPIEN Technologies MVP, and IDERA ACE(2017). He speaks in SQLSaturday, and .NET Camp events around the Florida’s State.  Currently working with SAPIENS Technologies as their Technical Evangelist for their PowerShell and Scripting Tools line of products.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/MaximoTrinidad.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/MaxTrinidad"
+            }
+          }
+        },
+        {
+          "SessionId": "MGT04",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "SQLServer Reporting Services administration new best friend - PowerShell",
+          "Speaker": {
+            "Name": "Cláudio Silva",
+            "Description": "Cláudio works as SQL Server DBA and he is an PowerShell MVP who loves to automate any process that needs to be done more than a couple of times. He is an active member on the PowerShell and SQL communities. He was the first major contributor on dbatools project (https://dbatools.io) and is always available to help. You can find him on slack and twitter platforms. Cláudio co-leads PASS Portuguese Virtual Group and he helps on some Portuguese in-person events such as SQLSaturday Lisbon and TugaIT. He is also a regular speaker on these and other events.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/ClaudioSilva.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/ClaudioESSilva"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "MGT05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "Mastering a complex DSC lab infrastructure – The story of the BMW Group DC deployment",
+          "Speaker": {
+            "Name": "Raimund Andrée",
+            "Description": "Microsoft Premier Field Engineer focusing mainly on PowerShell, DevOps and DSC",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/raimund.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/raimundandree"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
+        }
+      ]
+    },
+    {
+      "Day": "28 October 2017",
+      "Name": "General Track",
+      "Sessions": [
+        {
+          "SessionId": "Common1",
+          "Time": "8:30 AM - 9:30 AM",
+          "Title": "Slow is Smooth, Smooth is Fast"
+        },
+        {
+          "SessionId": "GEN01",
+          "Time": "9:45 AM - 10:45 AM",
+          "Title": "Supercharge Azure Functions with PowerShell",
+          "Speaker": {
+            "Name": "Ritesh Modi",
+            "Description": "Architect, Senior Evangelist, Cloud Architect, published author, Speaker and known leader for his contribution towards Data center, Azure, Powershell, Blockchain, Ethereum, Solidity, Bots, Cognitive Services, DevOps, Business intelligence and datacenter automation. Author of 'DevOps with Windows Server 2016' book available on Amazon and B&N. Co-authored book titled “Introducing Windows Server 2016 technical Preview” along with Windows Server team. Spoken at multiple conferences including TechEd and PowerShell Asia conference, conducts lots of internal training, meetups, sessions and published author for MSDN magazine. Having more than a decade of experience in building and deploying enterprise solutions for customers. Blogs @ https://automationnext.wordpress.com and  tweets @ #automationnext",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Ritesh Modi.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/automationnext"
+            }
+          }
+        },
+        {
+          "SessionId": "GEN02",
+          "Time": "11:00 AM - 12:00 PM",
+          "Title": "Next step to your script...turn it into an Advanced Function",
+          "Speaker": {
+            "Name": "Cláudio Silva",
+            "Description": "Cláudio works as SQL Server DBA and he is an PowerShell MVP who loves to automate any process that needs to be done more than a couple of times. He is an active member on the PowerShell and SQL communities. He was the first major contributor on dbatools project (https://dbatools.io) and is always available to help. You can find him on slack and twitter platforms. Cláudio co-leads PASS Portuguese Virtual Group and he helps on some Portuguese in-person events such as SQLSaturday Lisbon and TugaIT. He is also a regular speaker on these and other events.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/ClaudioSilva.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/ClaudioESSilva"
+            }
+          }
+        },
+        {
+          "SessionId": "Common2",
+          "Time": "12:00 PM - 01:00 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "GEN03",
+          "Time": "01:00 PM - 02:00 PM",
+          "Title": "PowerShell Yin-Yang: the worst practices and tips & tricks",
+          "Speaker": {
+            "Name": "Bartosz Bielawski",
+            "Description": "Bartosz (Bartek) Bielawski is a busy Windows engineer for Optiver, an international company. He loves PowerShell and automation and that love earned him the honour of Microsoft MVP. Author of the first PowerShell book in Polish “PowerShell 5.0 Biblia”, and co-author of the “PowerShell Deep Dives” book.",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Bartek.png?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/bielawb"
+            }
+          }
+        },
+        {
+          "SessionId": "GEN04",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Yo Bro! Do you even Parameterize?",
+          "Speaker": {
+            "Name": "Walter Legowski",
+            "Description": "BIO >> Walter Legowski (@SadProcessor) PowerShell Automation engineer by day Offensive PowerShell toolsmith by night French | Dutch wife | 3 kids Maker | Breaker | Trainer | n00b 4 ever Everything PowerShell...",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/WalterLegowski.jpg?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/SadProcessor"
+            }
+          }
+        },
+        {
+          "SessionId": "Common3",
+          "Time": "3:30 PM - 4:00 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "GEN05",
+          "Time": "4:00 PM - 5:00 PM",
+          "Title": "SQL Server Loves PowerShell - dbatools",
+          "Speaker": {
+            "Name": "Rob Sewell",
+            "Description": "Rob is a SQL Server DBA with a passion for PowerShell, Azure, Automation, and SQL (PaaS geddit?). He is a Cloud and Datacenter MVP and an officer for the PASS PowerShell VG and has spoken at and volunteered at many events. He is a member of the committee that organises SQL Saturday Exeter, PSDay.uk and also the European PowerShell Conference. He is a proud supporter of the SQL and PowerShell communities. He relishes sharing and learning and can be found doing both via Twitter and his blog. He spends most of his time looking at a screen and loves to solve problems. He knows that looking at a screen so much is bad for him because his wife tells him so. Thus, you can find him on the cricket field in the summer and flying a drone in the winter. He has a fabulous beard",
+            "ImageUrl": "https://github.com/PowerShellAsia/2017Website/blob/master/picture/Rob Sewell.png?raw=true",
+            "Social": {
+              "Twitter": "http://www.twitter.com/sqldbawithbeard"
+            }
+          }
+        },
+        {
+          "SessionId": "Common4",
+          "Time": "5:15 PM - 6:15 PM",
+          "Title": "Closing Panel / Session / PowerShell Team?"
+        }
+      ]
+    }
+  ]
+}
