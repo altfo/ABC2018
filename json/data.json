@@ -65,7 +65,7 @@
   "Tracks": [
     {
       "Day": "21 April 2018",
-      "Name": "Developer Track (Room - MR01)",
+      "Name": "Track 1 (Room - MR01)",
       "Sessions": [
         {
           "SessionId": "Common1",
@@ -85,17 +85,17 @@
         {
           "SessionId": "Session1",
           "Time": "9:15 AM - 10:15 AM",
-          "Title": "TBA"
+          "Title": "Code as it comes"
         },
         {
           "SessionId": "Session2",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "TBA"
+          "Title": "Using Azure Functions and Logic App to monitor and trade Cryptocurrencies"
         },
         {
           "SessionId": "Session3",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "TBA"
+          "Title": "Telemetry & Visibility via App Insights"
         },
         {
           "SessionId": "Common6",
@@ -105,7 +105,7 @@
         {
           "SessionId": "Session4",
           "Time": "01:15 PM - 2:15 PM",
-          "Title": "TBA"
+          "Title": "Solid Apps using Visual Studio App Center (Azure Mobile Center)"
         },
         {
           "SessionId": "Session7",
@@ -120,12 +120,12 @@
         {
           "SessionId": "Session5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Using Azure Functions and Logic App to monitor and trade Cryptocurrencies"
+          "Title": "Augmented Reality & Mixed Reality"
         },
         {
           "SessionId": "Session6",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "TBA"
+          "Title": "Modernize application development with higly scalable architecture using Docker & Azure cloud"
         },
         {
           "SessionId": "Common9",
@@ -136,7 +136,7 @@
     },
     {
       "Day": "21 April 2018",
-      "Name": "IT Pro (Room - MR02)",
+      "Name": "Track 2(Room - MR02)",
       "Sessions": [
         {
           "SessionId": "Common1",
@@ -156,17 +156,17 @@
         {
           "SessionId": "ITPRO1",
           "Time": "9:15 AM - 10:15 AM",
-          "Title": "TBA"
+          "Title": "Hybrid Cloud Practices"
         },
         {
           "SessionId": "ITPRO2",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "TBA"
+          "Title": "High Availability on Azure Why and How?"
         },
         {
           "SessionId": "ITPRO3",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "TBA"
+          "Title": "Design Scalable / HA Infrastrcuture"
         },
         {
           "SessionId": "Common6",
@@ -176,12 +176,12 @@
         {
           "SessionId": "ITPRO4",
           "Time": "01:15 PM - 2:15 PM",
-          "Title": "TBA"
+          "Title": "Cracking Azure Certification Exams - I"
         },
         {
           "SessionId": "ITPRO5",
           "Time": "02:15 PM - 3:15 PM",
-          "Title": "TBA"
+          "Title": "Cracking Azure Certification Exams - II"
         },
         {
           "SessionId": "Common8",
@@ -191,12 +191,12 @@
         {
           "SessionId": "ITPRO6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBA"
+          "Title": "Azure Compliance & Security"
         },
         {
           "SessionId": "ITPRO7",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "TBA"
+          "Title": "Building scalable distributed apps using an Azure CosmosDB"
         },
         {
           "SessionId": "Common9",
@@ -207,7 +207,7 @@
     },
     {
       "Day": "21 April 2018",
-      "Name": "Data (Room - CF12)",
+      "Name": "Track 3 (Room - CF15)",
       "Sessions": [
         {
           "SessionId": "Common1",
@@ -227,17 +227,17 @@
         {
           "SessionId": "DATA1",
           "Time": "9:15 AM - 10:15 AM",
-          "Title": "Building scalable distributed apps using an Azure CosmosDB"
+          "Title": "Building real world Blockchain applications on Azure"
         },
         {
           "SessionId": "DATA2",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "TBA"
+          "Title": "HOL"
         },
         {
           "SessionId": "DATA3",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "TBA"
+          "Title": "HOL"
         },
         {
           "SessionId": "Common6",
@@ -247,81 +247,10 @@
         {
           "SessionId": "DATA4",
           "Time": "01:15 PM - 2:15 PM",
-          "Title": "TBA"
+          "Title": "Hands on Workshop on Azure machine learning and Cognitive services"
         },
         {
           "SessionId": "DATA5",
-          "Time": "02:15 PM - 3:15 PM",
-          "Title": "TBA"
-        },
-        {
-          "SessionId": "Common8",
-          "Time": "3:15 PM - 3:30 PM",
-          "Title": "Break"
-        },
-        {
-          "SessionId": "DATA6",
-          "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBA"
-        },
-        {
-          "SessionId": "DATA7",
-          "Time": "4:30 PM - 5:30 PM",
-          "Title": "TBA"
-        },
-        {
-          "SessionId": "Common9",
-          "Time": "5:30 PM - 6:00 PM",
-          "Title": "Closing"
-        }
-      ]
-    },
-    {
-      "Day": "21 April 2018",
-      "Name": "Special (Room - CF15)",
-      "Sessions": [
-        {
-          "SessionId": "Common1",
-          "Time": "8:00 AM - 8:30 AM",
-          "Title": "Registration"
-        },
-        {
-          "SessionId": "Common2",
-          "Time": "8:30 AM - 9:00 AM",
-          "Title": "Keynote"
-        },
-        {
-          "SessionId": "Common3",
-          "Time": "9:00 AM - 9:15 AM",
-          "Title": "Break"
-        },
-        {
-          "SessionId": "SP1",
-          "Time": "9:15 AM - 10:15 AM",
-          "Title": "Building real world Blockchain applications on Azure"
-        },
-        {
-          "SessionId": "SP2",
-          "Time": "10:15 AM - 11:15 AM",
-          "Title": "Blockchain HOL"
-        },
-        {
-          "SessionId": "SP3",
-          "Time": "11:15 AM - 12:15 PM",
-          "Title": "Blockchain HOL"
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "12:15 PM - 1:15 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "SP4",
-          "Time": "01:15 PM - 2:15 PM",
-          "Title": "Hands on Workshop on Azure machine learning and Cognitive services."
-        },
-        {
-          "SessionId": "SP5",
           "Time": "02:15 PM - 3:15 PM",
           "Title": "Hands on Workshop on Azure machine learning and Cognitive services"
         },
@@ -331,14 +260,14 @@
           "Title": "Break"
         },
         {
-          "SessionId": "SP6",
+          "SessionId": "DATA6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "HOL"
+          "Title": "Azure HOL"
         },
         {
-          "SessionId": "SP7",
+          "SessionId": "DATA7",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "HOL"
+          "Title": "Azure HOL"
         },
         {
           "SessionId": "Common9",
@@ -347,6 +276,7 @@
         }
       ]
     }
+   
   ],
 
   "Tracks2": [
