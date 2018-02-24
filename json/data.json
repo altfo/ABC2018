@@ -125,7 +125,7 @@
         {
           "SessionId": "Session6",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "Modernize application development with higly scalable architecture using Docker & Azure cloud"
+          "Title": "Modernize application development with highly scalable architecture using Docker & Azure cloud"
         },
         {
           "SessionId": "Common9",
@@ -232,12 +232,12 @@
         {
           "SessionId": "DATA2",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "HOL"
+          "Title": "Blockchain HOL"
         },
         {
           "SessionId": "DATA3",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "HOL"
+          "Title": "Blockchain HOL"
         },
         {
           "SessionId": "Common6",
