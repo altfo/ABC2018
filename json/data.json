@@ -371,7 +371,7 @@
           "Speaker": {
             "Name": "Thuan Nguyen",
             "Description": "Azure MVP",
-            "ImageUrl": "https://mvp.microsoft.com/en-us/MyProfile/Photo/4033607/Microsoft",
+            "ImageUrl": "~/images/unknown.jpg",
             "Social": {
               "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
             }
@@ -420,9 +420,9 @@
           "Speaker": {
             "Name": "Joakim Rylander",
             "Description": "Cognizant Technologies",
-            "ImageUrl": "https://1drv.ms/u/s!AvHbUAkZizJJjstLVumVpNctfE16RA",
+            "ImageUrl": "~/images/unknown.jpg",
             "Social": {
-              "LinkedIn": "https://sg.linkedin.com/in/joakim-rylander-32287485"
+              "Twitter": "https://sg.linkedin.com/in/joakim-rylander-32287485"
             }
           }
         },
@@ -487,7 +487,7 @@
             "Description": "Microsoft",
             "ImageUrl": "https://aboutme.imgix.net/background/users/u/j/j/ujjwalkumar_1367926954_79.jpg",
             "Social": {
-              "LinkedIn": "https://sg.linkedin.com/in/ujjwalk"
+              "Twitter": "https://sg.linkedin.com/in/ujjwalk"
             }
           }
         },
@@ -515,8 +515,8 @@
           "Title": "Hands on Workshop on Azure machine learning and Cognitive services",
           "Speaker": {
             "Name": "Setu Chokshi",
-            "Description": "",
-            "ImageUrl": "https://media-exp2.licdn.com/media/p/6/000/22a/0c5/21b7e54.jpg",
+            "Description": "Azure MVP",
+            "ImageUrl": "~/images/unknown.jpg",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/setuchokshi/"
             }
