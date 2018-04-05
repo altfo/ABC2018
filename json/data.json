@@ -88,7 +88,7 @@
           "Title": "Azure Services for Mobile Developers",
           "Speaker": {
             "Name": "Mayur Tendulkar",
-            "Description": "",
+            "Description": "Microsoft",
             "ImageUrl": "https://pbs.twimg.com/profile_images/877489165402755072/QgsVQn-p_400x400.jpg",
             "Social": {
               "Blog": "http://mayurtendulkar.com"
@@ -101,8 +101,8 @@
           "Title": "Designing and Deploying Microservices Architecture on Azure",
           "Speaker": {
             "Name": "Wely Lau",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/unknown.jpg",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/welylau/"
             }
@@ -114,8 +114,8 @@
           "Title": "Using Azure Functions and Logic App to monitor and trade Cryptocurrencies",
           "Speaker": {
             "Name": "Tan Chun Siong",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/unknown.jpg",
             "Social": {
               "Twitter": "https://sg.linkedin.com/in/tanchunsiong"
             }
@@ -132,7 +132,7 @@
           "Title": "You only code once, the Bot",
           "Speaker": {
             "Name": "Sohel Shekha",
-            "Description": "",
+            "Description": "Visual Studio.NET MVP",
             "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002598",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/shekhasohel/"
@@ -145,7 +145,7 @@
           "Title": "Architecting Domain Driven Development for Microservices using Azure Kubernetes Service and .NET Core",
           "Speaker": {
             "Name": "Riza Marhaban",
-            "Description": "",
+            "Description": "Visual Studio.NET MVP",
             "ImageUrl": "https://secure.gravatar.com/avatar/021b9f76566f9b5fbca007dc6a8c0a1d?size=400",
             "Social": {
               "Blog": "https://www.rizamarhaban.com/about-riza-marhaban/"
@@ -163,7 +163,7 @@
           "Title": "Augmented Reality & Mixed Reality",
           "Speaker": {
             "Name": "Senthamil Selvan",
-            "Description": "",
+            "Description": "Windows Development MVP",
             "ImageUrl": "~/images/sen.jpg",
             "Social": {
               "Twitter": "https://www.twitter.com/altfo"
@@ -176,7 +176,7 @@
           "Title": "Modernize application development with highly scalable architecture using Docker & Azure cloud",
           "Speaker": {
             "Name": "Nilesh Gule",
-            "Description": "",
+            "Description": "Credit Agricole",
             "ImageUrl": "https://lh3.googleusercontent.com/-vc7HpCX3kvU/AAAAAAAAAAI/AAAAAAAAIEk/zMH51lPvQwI/s120-p-no/photo.jpg",
             "Social": {
               "Blog": "https://www.handsonarchitect.com"
