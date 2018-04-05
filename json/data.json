@@ -91,7 +91,7 @@
             "Description": "Microsoft",
             "ImageUrl": "https://pbs.twimg.com/profile_images/877489165402755072/QgsVQn-p_400x400.jpg",
             "Social": {
-              "Blog": "http://mayurtendulkar.com"
+              "Twitter": "http://mayurtendulkar.com"
             }
           }
         },
@@ -148,7 +148,7 @@
             "Description": "Visual Studio.NET MVP",
             "ImageUrl": "https://secure.gravatar.com/avatar/021b9f76566f9b5fbca007dc6a8c0a1d?size=400",
             "Social": {
-              "Blog": "https://www.rizamarhaban.com/about-riza-marhaban/"
+              "Twitter": "https://www.rizamarhaban.com/about-riza-marhaban/"
             }
           }
         },
@@ -179,7 +179,7 @@
             "Description": "Credit Agricole",
             "ImageUrl": "https://lh3.googleusercontent.com/-vc7HpCX3kvU/AAAAAAAAAAI/AAAAAAAAIEk/zMH51lPvQwI/s120-p-no/photo.jpg",
             "Social": {
-              "Blog": "https://www.handsonarchitect.com"
+              "Twitter": "https://www.handsonarchitect.com"
             }
           }
         },
@@ -244,7 +244,7 @@
             "Description": "Azure MVP",
             "ImageUrl": "~/images/sakthis.png",
             "Social": {
-              "Blog": "https://mvp.microsoft.com/en-us/PublicProfile/5002387?fullName=Sakthis%20%20Kumar"
+              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002387?fullName=Sakthis%20%20Kumar"
             }
           }
         },
@@ -275,7 +275,7 @@
             "Description": "Azure MVP",
             "ImageUrl": "https://photos.smugmug.com/MVPGlobal/Rock-Your-Profile/i-6w353qv/0/4ed849eb/O/Kenneth%20Ham.jpg",
             "Social": {
-              "Blog": "https://mvp.microsoft.com/en-us/PublicProfile/5002749?fullName=Kenneth%20%20Ham"
+              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002749?fullName=Kenneth%20%20Ham"
             }
           }
         },
@@ -308,7 +308,7 @@
             "Description": "Microsoft",
             "ImageUrl": "~/images/unknown.jpg",
             "Social": {
-              "LinkedIn": "https://www.linkedin.com/in/yinghao-li-23271630/"
+              "Twitter": "https://www.linkedin.com/in/yinghao-li-23271630/"
             }
           }
         },
