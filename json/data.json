@@ -164,7 +164,7 @@
           "Speaker": {
             "Name": "Senthamil Selvan",
             "Description": "Windows Development MVP",
-            "ImageUrl": "~/images/sen.jpg",
+            "ImageUrl": "/images/sen.jpg",
             "Social": {
               "Twitter": "https://www.twitter.com/altfo"
             }
