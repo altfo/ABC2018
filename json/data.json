@@ -85,7 +85,15 @@
         {
           "SessionId": "Session1",
           "Time": "9:15 AM - 10:15 AM",
-          "Title": "Code as it comes"
+          "Title": "Azure Services for Mobile Developers",
+          "Speaker": {
+            "Name": "Mayur Tendulkar",
+            "Description": "",
+            "ImageUrl": "https://pbs.twimg.com/profile_images/877489165402755072/QgsVQn-p_400x400.jpg",
+            "Social": {
+              "Blog": "http://mayurtendulkar.com"
+            }
+          }
         },
         {
           "SessionId": "Session2",
@@ -121,7 +129,7 @@
         {
           "SessionId": "Session4",
           "Time": "01:15 PM - 2:15 PM",
-          "Title": "Solid Apps using Visual Studio App Center (Azure Mobile Center)",
+          "Title": "You only code once, the Bot",
           "Speaker": {
             "Name": "Sohel Shekha",
             "Description": "",
@@ -140,7 +148,7 @@
             "Description": "",
             "ImageUrl": "https://secure.gravatar.com/avatar/021b9f76566f9b5fbca007dc6a8c0a1d?size=400",
             "Social": {
-              "Twitter": "https://www.rizamarhaban.com/about-riza-marhaban/"
+              "Blog": "https://www.rizamarhaban.com/about-riza-marhaban/"
             }
           }
         },
@@ -152,7 +160,15 @@
         {
           "SessionId": "Session5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Augmented Reality & Mixed Reality"
+          "Title": "Augmented Reality & Mixed Reality",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "",
+            "ImageUrl": "~/images/sen.jpg",
+            "Social": {
+              "Twitter": "https://www.twitter.com/altfo"
+            }
+          }
         },
         {
           "SessionId": "Session6",
@@ -163,7 +179,7 @@
             "Description": "",
             "ImageUrl": "https://lh3.googleusercontent.com/-vc7HpCX3kvU/AAAAAAAAAAI/AAAAAAAAIEk/zMH51lPvQwI/s120-p-no/photo.jpg",
             "Social": {
-              "Twitter": "https://www.handsonarchitect.com"
+              "Blog": "https://www.handsonarchitect.com"
             }
           }
         },
@@ -196,17 +212,41 @@
         {
           "SessionId": "ITPRO1",
           "Time": "9:15 AM - 10:15 AM",
-          "Title": "Hybrid Cloud Practices"
+          "Title": "Hybrid Cloud Practices",
+          "Speaker": {
+            "Name": "Anand",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/unknown.jpg",
+            "Social": {
+              "Blog": ""
+            }
+          }
         },
         {
           "SessionId": "ITPRO2",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "High Availability on Azure Why and How?"
+          "Title": "High Availability on Azure Why and How?",
+          "Speaker": {
+            "Name": "Steven Yi",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/unknown.jpg",
+            "Social": {
+              "Blog": ""
+            }
+          }
         },
         {
           "SessionId": "ITPRO3",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "Azure Security Center "
+          "Title": "Azure Security Center ",
+          "Speaker": {
+            "Name": "Sakthis Kumar",
+            "Description": "Azure MVP",
+            "ImageUrl": "~/images/sakthis.png",
+            "Social": {
+              "Blog": "https://mvp.microsoft.com/en-us/PublicProfile/5002387?fullName=Sakthis%20%20Kumar"
+            }
+          }
         },
         {
           "SessionId": "Common6",
@@ -216,12 +256,28 @@
         {
           "SessionId": "ITPRO4",
           "Time": "01:15 PM - 2:15 PM",
-          "Title": "Cracking Azure Certification Exams - I"
+          "Title": "Nuts and Bolts - Infrstructure",
+          "Speaker": {
+            "Name": "Faizal",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/faizal.png",
+            "Social": {
+              "Blog": ""
+            }
+          }
         },
         {
           "SessionId": "ITPRO5",
           "Time": "02:15 PM - 3:15 PM",
-          "Title": "Cracking Azure Certification Exams - II"
+          "Title": "Azure DevOps with VSTS",
+          "Speaker": {
+            "Name": "Kenneth Ham",
+            "Description": "Azure MVP",
+            "ImageUrl": "https://photos.smugmug.com/MVPGlobal/Rock-Your-Profile/i-6w353qv/0/4ed849eb/O/Kenneth%20Ham.jpg",
+            "Social": {
+              "Blog": "https://mvp.microsoft.com/en-us/PublicProfile/5002749?fullName=Kenneth%20%20Ham"
+            }
+          }
         },
         {
           "SessionId": "Common8",
@@ -231,7 +287,17 @@
         {
           "SessionId": "ITPRO6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBD"
+          "Title": "Nuts and Bolts - Apps",
+          "Speaker": {
+            "Name": "Puneet Ghanshani",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/punit.png",
+            "Social": {
+              "Blog": "",
+              "Twitter": "http://www.twitter.com/ganshani",
+              "Github": "https://github.com/punitganshani"
+            }
+          }
         },
         {
           "SessionId": "ITPRO7",
@@ -239,10 +305,10 @@
           "Title": "Azure Hyper Cloud Network Design",
           "Speaker": {
             "Name": "Yinghao Li",
-            "Description": "",
-            "ImageUrl": "",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/unknown.jpg",
             "Social": {
-              "Twitter": "https://www.linkedin.com/in/yinghao-li-23271630/"
+              "LinkedIn": "https://www.linkedin.com/in/yinghao-li-23271630/"
             }
           }
         },
@@ -278,7 +344,7 @@
           "Title": "Building scalable distributed apps using an Azure CosmosDB",
           "Speaker": {
             "Name": "Saranya Sriram",
-            "Description": "",
+            "Description": "Microsoft",
             "ImageUrl": "https://pbs.twimg.com/profile_images/844841873206231040/El5Umps-_400x400.jpg",
             "Social": {
               "Twitter": "https://www.twitter.com/sharan779/"
@@ -291,7 +357,7 @@
           "Title": "Azure Automation to Create On-demand SharePoint's Private build",
           "Speaker": {
             "Name": "Riwut Libinuko",
-            "Description": "",
+            "Description": "Office Server MVP",
             "ImageUrl": "https://mvp.microsoft.com/en-us/MyProfile/Photo/4024516/Microsoft",
             "Social": {
               "Twitter": "https://mvp.microsoft.com/en-us/MyProfile"
@@ -304,7 +370,7 @@
           "Title": "Make Your PaaS Deployment More Safe",
           "Speaker": {
             "Name": "Thuan Nguyen",
-            "Description": "",
+            "Description": "Azure MVP",
             "ImageUrl": "https://mvp.microsoft.com/en-us/MyProfile/Photo/4033607/Microsoft",
             "Social": {
               "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
@@ -319,10 +385,10 @@
         {
           "SessionId": "DATA4",
           "Time": "01:15 PM - 2:15 PM",
-          "Title": "TBD",
+          "Title": "Azure API Management ",
           "Speaker": {
             "Name": "Ben Ishiyama-Levy",
-            "Description": "",
+            "Description": "Visual Studio .NET MVP",
             "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
             "Social": {
               "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002408"
@@ -335,7 +401,7 @@
           "Title": "Mobile + AI",
           "Speaker": {
             "Name": "Nguyen Nhu Hieu",
-            "Description": "",
+            "Description": "Microsoft",
             "ImageUrl": "https://scontent.fkul10-1.fna.fbcdn.net/v/t1.0-9/19030617_10155177868250664_1358839569462258394_n.jpg?oh=026ef3ba6373e3252dab793403b14fdb&oe=5B496B8D",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/nguyennhuhieu/"
@@ -350,12 +416,28 @@
         {
           "SessionId": "DATA6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "TBD"
+          "Title": "Showcase Azure IoT device Management, Communication and Security",
+          "Speaker": {
+            "Name": "Joakim Rylander",
+            "Description": "Cognizant Technologies",
+            "ImageUrl": "https://1drv.ms/u/s!AvHbUAkZizJJjstLVumVpNctfE16RA",
+            "Social": {
+              "LinkedIn": "https://sg.linkedin.com/in/joakim-rylander-32287485"
+            }
+          }
         },
         {
           "SessionId": "DATA7",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "Telemetry & Visibility via App Insights"
+          "Title": "Telemetry & Visibility via App Insights",
+          "Speaker": {
+            "Name": "Louis Leong",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/unknown.jpg",
+            "Social": {
+              "Blog": ""
+            }
+          }
         },
         {
           "SessionId": "Common9",
@@ -389,7 +471,7 @@
           "Title": "Building real world Blockchain applications on Azure",
           "Speaker": {
             "Name": "Ujjwal Kumar",
-            "Description": "",
+            "Description": "Microsoft",
             "ImageUrl": "https://aboutme.imgix.net/background/users/u/j/j/ujjwalkumar_1367926954_79.jpg",
             "Social": {
               "Twitter": "https://sg.linkedin.com/in/ujjwalk"
@@ -399,12 +481,28 @@
         {
           "SessionId": "AI2",
           "Time": "10:15 AM - 11:15 AM",
-          "Title": "Hands On Lab - Blockchain"
+          "Title": "Hands On Lab - Blockchain",
+          "Speaker": {
+            "Name": "Ujjwal Kumar",
+            "Description": "Microsoft",
+            "ImageUrl": "https://aboutme.imgix.net/background/users/u/j/j/ujjwalkumar_1367926954_79.jpg",
+            "Social": {
+              "LinkedIn": "https://sg.linkedin.com/in/ujjwalk"
+            }
+          }
         },
         {
           "SessionId": "AI3",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "Hands On Lab - Blockchain"
+          "Title": "Hands On Lab",
+          "Speaker": {
+            "Name": "Abhishek Narain",
+            "Description": "Microsoft",
+            "ImageUrl": "~/images/unknown.jpg",
+            "Social": {
+              "Twitter": "https://sg.linkedin.com/in/ujjwalk"
+            }
+          }
         },
         {
           "SessionId": "Common6",
