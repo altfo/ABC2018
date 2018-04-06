@@ -20,8 +20,8 @@
   "Organizers": [
     {
       "Name": "Mohamed Faizal",
-      "Description": "Technology Solutions Professionals, Microsoft",
-      "ImageUrl": "~/images/faizal.png",
+      "Description": "Mohamed Faizal, Technology Specialist. Microsoft. High achieving, persuasive, adaptable & innovative problem solver with 20 years of experience with MNCs like Microsoft, Cognizant, Dimension Data & NCS. Specialist in consultative selling, pre-sales, alliances and partnership building.",
+      "ImageUrl": "http://singapore.azurebootcamp.net/images/faizal.png",
       "Social": {
         "Blog": "",
         "Twitter": "http://www.twitter.com/"
@@ -29,8 +29,8 @@
     },
     {
       "Name": "Puneet Ghanshani",
-      "Description": "Microsoft",
-      "ImageUrl": "~/images/punit.png",
+      "Description": "Puneet, Senior Architect at Microsoft, is responsible for engaging with Microsoft's customers for Presales/Delivery and providing thought and technical leadership to improve their technology landscape using Artificial Intelligence tools/frameworks on Azure and streamline their DevOps processes. He has spoken in over 30 conferences on topics related to .NET and Azure, authored over 25 articles in international journals, a book on advanced C to his name, and has contributed to many open source projects on GitHub. Prior to joining Microsoft, he was also MVP on Microsoft Azure and .NET technologies.",
+      "ImageUrl": "http://singapore.azurebootcamp.net/images/punit.png",
       "Social": {
         "Blog": "",
         "Twitter": "http://www.twitter.com/ganshani",
@@ -40,7 +40,7 @@
     {
       "Name": "Sakthis Kumar",
       "Description": "Azure MVP",
-      "ImageUrl": "~/images/sakthis.png",
+      "ImageUrl": "http://singapore.azurebootcamp.net/images/sakthis.png",
       "Social": {
         "Blog": "",
         "Twitter": "http://www.twitter.com/sakthis"
@@ -101,8 +101,8 @@
           "Title": "Designing and Deploying Microservices Architecture on Azure",
           "Speaker": {
             "Name": "Wely Lau",
-            "Description": "Microsoft",
-            "ImageUrl": "~/images/unknown.jpg",
+            "Description": "Wely Lau (Technology Specialist, Azure Cloud App Dev, APAC)Wely is developer, architect, trainer, consultant, technical writer, and technology lover. He currently works as Technology Specialist on Azure Application Development Platform for Microsoft Asia Pacific.Before joining Microsoft, he was 5 years Azure MVP and was the first Azure MVP in Southeast Asia.",
+            "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/welylau/"
             }
@@ -132,7 +132,7 @@
           "Title": "You only code once, the Bot",
           "Speaker": {
             "Name": "Sohel Shekha",
-            "Description": "Visual Studio.NET MVP",
+            "Description": "Sohel Shekha has been developing Business Solutions for Security, E-commerce, Healthcare and Retail industry for past 7 years. He is Microsoft MVP and currently works as Tech Lead for Halza. His interest lies in Cyber Security, Mobile Apps and .Net Technologies, in his free time he likes to write on Quora and has been featured as 'Most Viewed Writer' for Xamarin.",
             "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002598",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/shekhasohel/"
@@ -370,7 +370,7 @@
           "Title": "Make Your PaaS Deployment More Safe",
           "Speaker": {
             "Name": "Thuan Nguyen",
-            "Description": "Azure MVP",
+            "Description": "Thuan is a Microsoft MVP since 2011 with nearly 10 years  experiences extensively on Microsoft stack. Thuan is passionate about software product and security engineering on cloud. He is now focusing on developing Practical Transformation Framework and Methodology for Datacenter, Large-scale and Mass Migration to Microsoft Azure",
             "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
             "Social": {
               "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
@@ -471,7 +471,7 @@
           "Title": "Building real world Blockchain applications on Azure",
           "Speaker": {
             "Name": "Ujjwal Kumar",
-            "Description": "Microsoft",
+            "Description": "Ujjwal Kumar is a Principal Technical Evangelist at Microsoft's Commercial Software Engineering (CSE) group based out of Singapore. He is a digital transformation ninja and works on system of intelligence (A.I., Blockchain, Bots, Cloud, IoT) with customers and partners to enable them realize their potential through architecture design and code development.",
             "ImageUrl": "https://aboutme.imgix.net/background/users/u/j/j/ujjwalkumar_1367926954_79.jpg",
             "Social": {
               "Twitter": "https://sg.linkedin.com/in/ujjwalk"
