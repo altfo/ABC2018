@@ -102,7 +102,7 @@
           "Speaker": {
             "Name": "Wely Lau",
             "Description": "Wely Lau (Technology Specialist, Azure Cloud App Dev, APAC)Wely is developer, architect, trainer, consultant, technical writer, and technology lover. He currently works as Technology Specialist on Azure Application Development Platform for Microsoft Asia Pacific.Before joining Microsoft, he was 5 years Azure MVP and was the first Azure MVP in Southeast Asia.",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/welly.jpg",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/welylau/"
             }
@@ -371,7 +371,7 @@
           "Speaker": {
             "Name": "Thuan Nguyen",
             "Description": "Thuan is a Microsoft MVP since 2011 with nearly 10 years  experiences extensively on Microsoft stack. Thuan is passionate about software product and security engineering on cloud. He is now focusing on developing Practical Transformation Framework and Methodology for Datacenter, Large-scale and Mass Migration to Microsoft Azure",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/thuan.jpg",
             "Social": {
               "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
             }
