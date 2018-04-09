@@ -160,11 +160,11 @@
         {
           "SessionId": "Session5",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Augmented Reality & Mixed Reality",
+          "Title": "TBD",
           "Speaker": {
-            "Name": "Senthamil Selvan",
-            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/sen.jpg",
+            "Name": "<Unknown>",
+            "Description": "",
+            "ImageUrl": "~/images/unknown.jpg",
             "Social": {
               "Twitter": "https://www.twitter.com/altfo"
             }
