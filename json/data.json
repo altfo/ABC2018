@@ -287,7 +287,7 @@
         {
           "SessionId": "ITPRO6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Nuts and Bolts - Apps",
+          "Title": "Nuts and Bolts - Apps and Data",
           "Speaker": {
             "Name": "Puneet Ghanshani",
             "Description": "Puneet, Senior Architect at Microsoft, is responsible for engaging with Microsoft's customers for Presales/Delivery and providing thought and technical leadership to improve their technology landscape using Artificial Intelligence tools/frameworks on Azure and streamline their DevOps processes. He has spoken in over 30 conferences on topics related to .NET and Azure, authored over 25 articles in international journals, a book on advanced C to his name, and has contributed to many open source projects on GitHub. Prior to joining Microsoft, he was also MVP on Microsoft Azure and .NET technologies.",
@@ -344,7 +344,7 @@
           "Title": "Building scalable distributed apps using an Azure CosmosDB",
           "Speaker": {
             "Name": "Saranya Sriram",
-            "Description": "Microsoft",
+            "Description": "Saranya is a Cloud Solution Architect Lead in APAC Partner’s organization at Microsoft, leading a team of CSAs to help Partners migration applications and solutions into Azure platform. Saranya, herself is a technical enthusiast and hands on various parts of Application innovation and development. She is  a regular speaker at Microsoft Summits, keynote speaker demos, and speakers at Tech Summit, as well as a variety of 3rd party cloud events and conferences, specifically she has been presenting in Global Azure Bootcamp consecutively for 5 years now.",
             "ImageUrl": "https://pbs.twimg.com/profile_images/844841873206231040/El5Umps-_400x400.jpg",
             "Social": {
               "Twitter": "https://www.twitter.com/sharan779/"
