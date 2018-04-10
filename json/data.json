@@ -163,10 +163,10 @@
           "Title": "You chose Microsoft Azure, but What’s Next?",
           "Speaker": {
             "Name": "Milton Goh",
-            "Description": "MVP Data Platform",
-            "ImageUrl": "~/images/unknown.jpg",
+            "Description": "Microsoft CDM MVP. Milton is the industry hybrid guy who loves getting involve with hybrid stuffs. He started off as a Software Developer in Visual Basic programming in his career.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/milton.jpg",
             "Social": {
-              "Twitter": ""
+              "Twitter": "http://www.twitter.com/miltongoh"
             }
           }
         },
