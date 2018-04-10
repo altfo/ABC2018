@@ -494,7 +494,7 @@
         {
           "SessionId": "AI2",
           "Time": "11:15 AM - 12:15 PM",
-          "Title": "Hands On Lab - Blockchain: Lab Pre-requisite: \r \n 1. Azure subscription with access rights to create resources \r \n 2. Developers should have the following on their machines:<br/>3. Visual Studio Code - https://code.visualstudio.com/   This tool is free for Windows/Mac/Linux <br/>4. Solidity extension for VS Code: https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity <br/>5. Chrome browser / Firefox Browser and MetaMask extension : https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en  <br/>6. Postman: https://www.getpostman.com/ <br/>7. Link for API dev tools: Azure SDK for .Net and Node https://azure.microsoft.com/en-us/downloads/",
+          "Title": "Hands On Lab - Blockchain: Lab Pre-requisite: \n\n 1. Azure subscription with access rights to create resources \n\n 2. Developers should have the following on their machines:<br/>3. Visual Studio Code - https://code.visualstudio.com/   This tool is free for Windows/Mac/Linux <br/>4. Solidity extension for VS Code: https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity <br/>5. Chrome browser / Firefox Browser and MetaMask extension : https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en  <br/>6. Postman: https://www.getpostman.com/ <br/>7. Link for API dev tools: Azure SDK for .Net and Node https://azure.microsoft.com/en-us/downloads/",
           "Speaker": {
             "Name": "Ujjwal Kumar",
             "Description": "Microsoft",
