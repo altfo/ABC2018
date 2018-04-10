@@ -471,7 +471,7 @@
           "Title": "Building and Operationalizing your Data Integration Workflow at Scale in the Cloud",
           "Speaker": {
             "Name": "Shirley Wang",
-            "Description": "Microsoft",
+            "Description": "Shirley Wang is a Principal PM Manager working on Azure Data Factory.  Having been part of Microsoft Data Group for the last 16 years, Shirley has worked on SQL Server performance, SQL upgrade and migration tooling, Azure SQL Data Sync, and now ADF, a fully-managed data integration service in Azure.",
             "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/shwang.png",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/shirley-wang-???%EF%BC%89-9090565/"
