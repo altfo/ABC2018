@@ -39,7 +39,7 @@
     },
     {
       "Name": "Sakthis Kumar",
-      "Description": "Azure MVP",
+      "Description": ":  Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
       "ImageUrl": "http://singapore.azurebootcamp.net/images/sakthis.png",
       "Social": {
         "Blog": "",
@@ -145,7 +145,7 @@
           "Title": "Architecting Domain Driven Development for Microservices using Azure Kubernetes Service and .NET Core",
           "Speaker": {
             "Name": "Riza Marhaban",
-            "Description": "Visual Studio.NET MVP",
+            "Description": "Riza Marhaban is a Cloud/Software Solution Architect, he is also a developers advocate and Full-Stack .NET Developer and former Microsoft Technical Evangelist at Microsoft. Riza is a long time 20+ years’ experience in IT, developing on Microsoft Technologies as well as Open Source Software. He loves following disruptive technologies and ideas, the market changes and the fluctuations of technologies. He also likes to talk about it. With a background in Mechanical Engineering that specialize in Robotics, Mechatronics, Automation, he currently also plays around with Mobile development and IoT. Twitter: @rizamarhaban, Website: rizamarhaban.com",
             "ImageUrl": "https://secure.gravatar.com/avatar/021b9f76566f9b5fbca007dc6a8c0a1d?size=400",
             "Social": {
               "Twitter": "https://www.rizamarhaban.com/about-riza-marhaban/"
@@ -176,7 +176,7 @@
           "Title": "Modernize application development with highly scalable architecture using Docker & Azure cloud",
           "Speaker": {
             "Name": "Nilesh Gule",
-            "Description": "Credit Agricole",
+            "Description": "Architect with 15 years of industry expereince in multiple domains including Finance, Retail & Healthcare. Active blogger. Bigdata and cloud technologies enthusiasts. Exploring containers and orchestrators with focus on Docker & Kubernetes. Technology is my passion & Striving for excellence is my motto.",
             "ImageUrl": "https://lh3.googleusercontent.com/-vc7HpCX3kvU/AAAAAAAAAAI/AAAAAAAAIEk/zMH51lPvQwI/s120-p-no/photo.jpg",
             "Social": {
               "Twitter": "https://www.handsonarchitect.com"
@@ -241,7 +241,7 @@
           "Title": "Azure Security Center ",
           "Speaker": {
             "Name": "Sakthis Kumar",
-            "Description": "Azure MVP",
+            "Description": ":  Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
             "ImageUrl": "http://singapore.azurebootcamp.net/images/sakthis.png",
             "Social": {
               "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002387?fullName=Sakthis%20%20Kumar"
@@ -267,26 +267,8 @@
           }
         },
         {
-          "SessionId": "ITPRO5",
-          "Time": "02:15 PM - 3:15 PM",
-          "Title": "Azure DevOps with VSTS",
-          "Speaker": {
-            "Name": "Kenneth Ham",
-            "Description": "Azure MVP",
-            "ImageUrl": "https://photos.smugmug.com/MVPGlobal/Rock-Your-Profile/i-6w353qv/0/4ed849eb/O/Kenneth%20Ham.jpg",
-            "Social": {
-              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002749?fullName=Kenneth%20%20Ham"
-            }
-          }
-        },
-        {
-          "SessionId": "Common8",
-          "Time": "3:15 PM - 3:30 PM",
-          "Title": "Break"
-        },
-        {
           "SessionId": "ITPRO6",
-          "Time": "3:30 PM - 4:30 PM",
+          "Time": "02:15 PM - 3:15 PM",
           "Title": "Nuts and Bolts - Apps and Data",
           "Speaker": {
             "Name": "Puneet Ghanshani",
@@ -299,6 +281,25 @@
             }
           }
         },
+        {
+          "SessionId": "Common8",
+          "Time": "3:15 PM - 3:30 PM",
+          "Title": "Break"
+        },
+        {
+          "SessionId": "ITPRO5",
+          "Time": "3:30 PM - 4:30 PM",
+          "Title": "Azure DevOps with VSTS",
+          "Speaker": {
+            "Name": "Kenneth Ham",
+            "Description": "Kenneth Ham is a Microsoft Azure MVP. Kenneth graduated from the National University of Singapore in Computer Science specializing in Software Engineering and Multimedia Information Retrieval. He is passionate about learning new technologies and has a 10+ years of IT experiences, diversifying across Software Engineering, AI, DevOps, and in particular, cloud focused in developing & architecting cloud solutions on Microsoft Azure.",
+            "ImageUrl": "https://photos.smugmug.com/MVPGlobal/Rock-Your-Profile/i-6w353qv/0/4ed849eb/O/Kenneth%20Ham.jpg",
+            "Social": {
+              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002749?fullName=Kenneth%20%20Ham"
+            }
+          }
+        },
+
         {
           "SessionId": "ITPRO7",
           "Time": "4:30 PM - 5:30 PM",
@@ -419,8 +420,8 @@
           "Title": "Showcase Azure IoT device Management, Communication and Security",
           "Speaker": {
             "Name": "Joakim Rylander",
-            "Description": "Cognizant Technologies",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
+            "Description": "I have 23 years of professional experience in Information Technology which have given me the opportunity to constantly learn and solve problems mainly using Microsoft technologies. I have been a geek since the days of DOS, long before the web.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/joakim.png",
             "Social": {
               "Twitter": "https://sg.linkedin.com/in/joakim-rylander-32287485"
             }
