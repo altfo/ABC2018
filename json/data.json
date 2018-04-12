@@ -74,17 +74,17 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "8:30 AM - 9:00 AM",
+          "Time": "8:30 AM - 9:15 AM",
           "Title": "Keynote"
         },
         {
           "SessionId": "Common3",
-          "Time": "9:00 AM - 9:15 AM",
+          "Time": "9:15 AM - 9:30 AM",
           "Title": "Break"
         },
         {
           "SessionId": "Session1",
-          "Time": "9:15 AM - 10:15 AM",
+          "Time": "9:30 AM - 10:30 AM",
           "Title": "Azure Services for Mobile Developers",
           "Speaker": {
             "Name": "Mayur Tendulkar",
@@ -97,7 +97,7 @@
         },
         {
           "SessionId": "Session2",
-          "Time": "10:15 AM - 11:15 AM",
+          "Time": "10:30 AM - 11:30 AM",
           "Title": "Designing and Deploying Microservices Architecture on Azure",
           "Speaker": {
             "Name": "Wely Lau",
@@ -110,7 +110,7 @@
         },
         {
           "SessionId": "Session3",
-          "Time": "11:15 AM - 12:15 PM",
+          "Time": "11:30 AM - 12:30 PM",
           "Title": "Using Azure Functions and Logic App to monitor and trade Cryptocurrencies",
           "Speaker": {
             "Name": "Tan Chun Siong",
@@ -123,7 +123,7 @@
         },
         {
           "SessionId": "Common6",
-          "Time": "12:15 PM - 1:15 PM",
+          "Time": "12:30 PM - 1:15 PM",
           "Title": "Lunch"
         },
         {
@@ -201,17 +201,17 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "8:30 AM - 9:00 AM",
+          "Time": "8:30 AM - 9:15 AM",
           "Title": "Keynote"
         },
         {
           "SessionId": "Common3",
-          "Time": "9:00 AM - 9:15 AM",
+          "Time": "9:15 AM - 9:30 AM",
           "Title": "Break"
         },
         {
           "SessionId": "ITPRO1",
-          "Time": "9:15 AM - 10:15 AM",
+          "Time": "9:30 AM - 10:30 AM",
           "Title": "Hybrid Cloud Practices",
           "Speaker": {
             "Name": "Anand",
@@ -223,39 +223,8 @@
           }
         },
         {
-          "SessionId": "ITPRO2",
-          "Time": "10:15 AM - 11:15 AM",
-          "Title": "High Availability on Azure Why and How?",
-          "Speaker": {
-            "Name": "Steven Yi",
-            "Description": "Microsoft",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
-            "Social": {
-              "Blog": ""
-            }
-          }
-        },
-        {
-          "SessionId": "ITPRO3",
-          "Time": "11:15 AM - 12:15 PM",
-          "Title": "Azure Security Center ",
-          "Speaker": {
-            "Name": "Sakthis Kumar",
-            "Description": "Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
-            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/sakthis.png",
-            "Social": {
-              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002387?fullName=Sakthis%20%20Kumar"
-            }
-          }
-        },
-        {
-          "SessionId": "Common6",
-          "Time": "12:15 PM - 1:15 PM",
-          "Title": "Lunch"
-        },
-        {
           "SessionId": "ITPRO4",
-          "Time": "01:15 PM - 2:15 PM",
+          "Time": "10:30 PM - 11:30 PM",
           "Title": "Nuts and Bolts - Infrstructure",
           "Speaker": {
             "Name": "Faizal",
@@ -268,7 +237,7 @@
         },
         {
           "SessionId": "ITPRO6",
-          "Time": "02:15 PM - 3:15 PM",
+          "Time": "11:30 PM - 12:30 PM",
           "Title": "Nuts and Bolts - Apps and Data",
           "Speaker": {
             "Name": "Puneet Ghanshani",
@@ -281,6 +250,38 @@
             }
           }
         },
+        {
+          "SessionId": "Common6",
+          "Time": "12:30 PM - 1:15 PM",
+          "Title": "Lunch"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "1:15 PM - 2:15 PM",
+          "Title": "Azure Security Center ",
+          "Speaker": {
+            "Name": "Sakthis Kumar",
+            "Description": "Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/sakthis.png",
+            "Social": {
+              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002387?fullName=Sakthis%20%20Kumar"
+            }
+          }
+        },
+       {
+          "SessionId": "DATA3",
+          "Time": "2:15 PM - 3:15 PM",
+          "Title": "Make Your PaaS Deployment More Safe",
+        "Speaker": {
+          "Name": "Thuan Nguyen",
+          "Description": "Thuan is a Microsoft MVP since 2011 with nearly 10 years  experiences extensively on Microsoft stack. Thuan is passionate about software product and security engineering on cloud. He is now focusing on developing Practical Transformation Framework and Methodology for Datacenter, Large-scale and Mass Migration to Microsoft Azure",
+          "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/thuan.jpg",
+          "Social": {
+            "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
+          }
+        }
+        },
+
         {
           "SessionId": "Common8",
           "Time": "3:15 PM - 3:30 PM",
@@ -331,17 +332,17 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "8:30 AM - 9:00 AM",
+          "Time": "8:30 AM - 9:15 AM",
           "Title": "Keynote"
         },
         {
           "SessionId": "Common3",
-          "Time": "9:00 AM - 9:15 AM",
+          "Time": "9:13 AM - 9:30 AM",
           "Title": "Break"
         },
         {
           "SessionId": "DATA1",
-          "Time": "9:15 AM - 10:15 AM",
+          "Time": "9:30 AM - 10:30 AM",
           "Title": "Building scalable distributed apps using an Azure CosmosDB",
           "Speaker": {
             "Name": "Saranya Sriram",
@@ -353,34 +354,22 @@
           }
         },
         {
-          "SessionId": "DATA2",
-          "Time": "10:15 AM - 11:15 AM",
-          "Title": "Azure Automation to Create On-demand SharePoint's Private build",
+          "SessionId": "AI1",
+          "Time": "10:30 AM - 11:30 AM",
+          "Title": "Building and Operationalizing your Data Integration Workflow at Scale in the Cloud",
           "Speaker": {
-            "Name": "Riwut Libinuko",
-            "Description": "Riwut Libinuko is Senior Architect who helped many business in their digital transformation journey. He has experienced in multidisciplinary domains such as banking, public sector, telecommunication, insurance and manufacturing. Riwut is Microsoft MVP who passionate in Cloud computing, IOTs, robotic and machine learning.",
-            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/riwut.jpg",
+            "Name": "Shirley Wang",
+            "Description": "Shirley Wang is a Principal PM Manager working on Azure Data Factory.  Having been part of Microsoft Data Group for the last 16 years, Shirley has worked on SQL Server performance, SQL upgrade and migration tooling, Azure SQL Data Sync, and now ADF, a fully-managed data integration service in Azure.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/shwang.png",
             "Social": {
-              "Twitter": "https://mvp.microsoft.com/en-us/MyProfile"
+              "Twitter": ""
             }
           }
         },
-        {
-          "SessionId": "DATA3",
-          "Time": "11:15 AM - 12:15 PM",
-          "Title": "Make Your PaaS Deployment More Safe",
-          "Speaker": {
-            "Name": "Thuan Nguyen",
-            "Description": "Thuan is a Microsoft MVP since 2011 with nearly 10 years  experiences extensively on Microsoft stack. Thuan is passionate about software product and security engineering on cloud. He is now focusing on developing Practical Transformation Framework and Methodology for Datacenter, Large-scale and Mass Migration to Microsoft Azure",
-            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/thuan.jpg",
-            "Social": {
-              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
-            }
-          }
-        },
+      
         {
           "SessionId": "Common6",
-          "Time": "12:15 PM - 1:15 PM",
+          "Time": "12:30 PM - 1:15 PM",
           "Title": "Lunch"
         },
         {
@@ -458,30 +447,18 @@
         },
         {
           "SessionId": "Common2",
-          "Time": "8:30 AM - 9:00 AM",
+          "Time": "8:30 AM - 9:15 AM",
           "Title": "Keynote"
         },
         {
           "SessionId": "Common3",
-          "Time": "9:00 AM - 9:15 AM",
+          "Time": "9:15 AM - 9:30 AM",
           "Title": "Break"
         },
+      
         {
           "SessionId": "AI1",
-          "Time": "9:15 AM - 10:15 AM",
-          "Title": "Building and Operationalizing your Data Integration Workflow at Scale in the Cloud",
-          "Speaker": {
-            "Name": "Shirley Wang",
-            "Description": "Shirley Wang is a Principal PM Manager working on Azure Data Factory.  Having been part of Microsoft Data Group for the last 16 years, Shirley has worked on SQL Server performance, SQL upgrade and migration tooling, Azure SQL Data Sync, and now ADF, a fully-managed data integration service in Azure.",
-            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/shwang.png",
-            "Social": {
-              "Twitter": ""
-            }
-          }
-        },
-        {
-          "SessionId": "AI1",
-          "Time": "10:15 AM - 11:15 AM",
+          "Time": "9:30 AM - 10:30 AM",
           "Title": "Building real world Blockchain applications on Azure",
           "Speaker": {
             "Name": "Ujjwal Kumar",
@@ -494,7 +471,7 @@
         },
         {
           "SessionId": "AI2",
-          "Time": "11:15 AM - 12:15 PM",
+          "Time": "10:30 AM - 11:30 PM",
           "Title": "Hands On Lab - Blockchain: For pre-requisite please check https://www.meetup.com/mssgug/events/247698333/",
           "Speaker": {
             "Name": "Ujjwal Kumar",
@@ -506,8 +483,21 @@
           }
         },
         {
+          "SessionId": "DATA2",
+          "Time": "11:30 AM - 12:30 PM",
+          "Title": "Azure Automation to Create On-demand SharePoint's Private build",
+          "Speaker": {
+            "Name": "Riwut Libinuko",
+            "Description": "Riwut Libinuko is Senior Architect who helped many business in their digital transformation journey. He has experienced in multidisciplinary domains such as banking, public sector, telecommunication, insurance and manufacturing. Riwut is Microsoft MVP who passionate in Cloud computing, IOTs, robotic and machine learning.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/riwut.jpg",
+            "Social": {
+              "Twitter": "https://mvp.microsoft.com/en-us/MyProfile"
+            }
+          }
+        },
+        {
           "SessionId": "Common6",
-          "Time": "12:15 PM - 1:15 PM",
+          "Time": "12:30 PM - 1:15 PM",
           "Title": "Lunch"
         },
         {
@@ -536,12 +526,30 @@
         {
           "SessionId": "AI6",
           "Time": "3:30 PM - 4:30 PM",
-          "Title": "Azure HOL"
+          "Title": "Managing Azure Infrastructure - HOL",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+            "ImageUrl": "http://singapore.azurebootcamp.net/images/sen.jpg",
+            "Social": {
+              "Blog": "http://altfo.wordpress.com",
+              "Twitter": "http://www.twitter.com/altfo"
+            }
+          }
         },
         {
           "SessionId": "AI7",
           "Time": "4:30 PM - 5:30 PM",
-          "Title": "Azure HOL"
+          "Title": "Managing Azure Infrastructure - HOL",
+          "Speaker": {
+            "Name": "Senthamil Selvan",
+            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
+            "ImageUrl": "http://singapore.azurebootcamp.net/images/sen.jpg",
+            "Social": {
+              "Blog": "http://altfo.wordpress.com",
+              "Twitter": "http://www.twitter.com/altfo"
+            }
+          }
         },
         {
           "SessionId": "Common9",
