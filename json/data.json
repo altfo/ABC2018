@@ -128,7 +128,7 @@
         },
         {
           "SessionId": "Session4",
-          "Time": "01:15 PM - 2:15 PM",
+          "Time": "1:15 PM - 2:15 PM",
           "Title": "You only code once, the Bot",
           "Speaker": {
             "Name": "Sohel Shekha",
@@ -141,7 +141,7 @@
         },
         {
           "SessionId": "Session7",
-          "Time": "02:15 PM - 3:15 PM",
+          "Time": "2:15 PM - 3:15 PM",
           "Title": "Architecting Domain Driven Development for Microservices using Azure Kubernetes Service and .NET Core",
           "Speaker": {
             "Name": "Riza Marhaban",
