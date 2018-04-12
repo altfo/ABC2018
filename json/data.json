@@ -386,7 +386,7 @@
         },
         {
           "SessionId": "DATA3",
-          "Time": "01:15 PM - 2:15 PM",
+          "Time": "1:15 PM - 2:15 PM",
           "Title": "Azure API Management ",
           "Speaker": {
             "Name": "Ben Ishiyama-Levy",
@@ -399,7 +399,7 @@
         },
         {
           "SessionId": "DATA4",
-          "Time": "02:15 PM - 3:15 PM",
+          "Time": "2:15 PM - 3:15 PM",
           "Title": "Mobile + AI",
           "Speaker": {
             "Name": "Nguyen Nhu Hieu",
