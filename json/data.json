@@ -39,8 +39,8 @@
     },
     {
       "Name": "Sakthis Kumar",
-      "Description": ":  Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
-      "ImageUrl": "http://singapore.azurebootcamp.net/images/sakthis.png",
+      "Description": "Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
+      "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/sakthis.png",
       "Social": {
         "Blog": "",
         "Twitter": "http://www.twitter.com/sakthis"
@@ -215,8 +215,8 @@
           "Title": "Hybrid Cloud Practices",
           "Speaker": {
             "Name": "Anand",
-            "Description": "Microsoft",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
+            "Description": "As a Cloud Solution Architect with Microsoft, Anand's current role involves enabling partners & customers to envision, design and deploy the right Microsoft Azure solutions to meet their exact needs. Apart from Microsoft Azure, his areas of expertise include Directory Services, Virtualization, Private and Hybrid clouds. With 13+ years in Microsoft and a wide range of experience over 20 years in the industry, he has been assisting partners & customers in rapidly finding solutions to their technology challenges.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/anandms.jpg",
             "Social": {
               "Blog": ""
             }
@@ -241,8 +241,8 @@
           "Title": "Azure Security Center ",
           "Speaker": {
             "Name": "Sakthis Kumar",
-            "Description": ":  Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/sakthis.png",
+            "Description": "Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/sakthis.png",
             "Social": {
               "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002387?fullName=Sakthis%20%20Kumar"
             }
@@ -433,8 +433,8 @@
           "Title": "Lessons learnt along Microsoft’s DevOps journey",
           "Speaker": {
             "Name": "Louis Leong",
-            "Description": "Microsoft",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
+            "Description": "As a technology strategist in Microsoft, Louis works with enterprise customers to help them achieve IT and business goals aligned to their digital transformation aspirations. He has an extensive experience in software development and architecting enterprise scale solutions",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/louis.jpg",
             "Social": {
               "Blog": ""
             }
