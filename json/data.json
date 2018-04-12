@@ -223,7 +223,7 @@
           }
         },
         {
-          "SessionId": "ITPRO4",
+          "SessionId": "ITPRO2",
           "Time": "10:30 PM - 11:30 PM",
           "Title": "Nuts and Bolts - Infrstructure",
           "Speaker": {
@@ -236,7 +236,7 @@
           }
         },
         {
-          "SessionId": "ITPRO6",
+          "SessionId": "ITPRO3",
           "Time": "11:30 PM - 12:30 PM",
           "Title": "Nuts and Bolts - Apps and Data",
           "Speaker": {
@@ -256,7 +256,7 @@
           "Title": "Lunch"
         },
         {
-          "SessionId": "ITPRO3",
+          "SessionId": "ITPRO4",
           "Time": "1:15 PM - 2:15 PM",
           "Title": "Azure Security Center ",
           "Speaker": {
@@ -268,18 +268,18 @@
             }
           }
         },
-       {
-          "SessionId": "DATA3",
+        {
+          "SessionId": "ITPRO5",
           "Time": "2:15 PM - 3:15 PM",
           "Title": "Make Your PaaS Deployment More Safe",
-        "Speaker": {
-          "Name": "Thuan Nguyen",
-          "Description": "Thuan is a Microsoft MVP since 2011 with nearly 10 years  experiences extensively on Microsoft stack. Thuan is passionate about software product and security engineering on cloud. He is now focusing on developing Practical Transformation Framework and Methodology for Datacenter, Large-scale and Mass Migration to Microsoft Azure",
-          "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/thuan.jpg",
-          "Social": {
-            "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
+          "Speaker": {
+            "Name": "Thuan Nguyen",
+            "Description": "Thuan is a Microsoft MVP since 2011 with nearly 10 years  experiences extensively on Microsoft stack. Thuan is passionate about software product and security engineering on cloud. He is now focusing on developing Practical Transformation Framework and Methodology for Datacenter, Large-scale and Mass Migration to Microsoft Azure",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/thuan.jpg",
+            "Social": {
+              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
+            }
           }
-        }
         },
 
         {
@@ -288,7 +288,7 @@
           "Title": "Break"
         },
         {
-          "SessionId": "ITPRO5",
+          "SessionId": "ITPRO6",
           "Time": "3:30 PM - 4:30 PM",
           "Title": "Azure DevOps with VSTS",
           "Speaker": {
@@ -337,7 +337,7 @@
         },
         {
           "SessionId": "Common3",
-          "Time": "9:13 AM - 9:30 AM",
+          "Time": "9:15 AM - 9:30 AM",
           "Title": "Break"
         },
         {
@@ -354,7 +354,7 @@
           }
         },
         {
-          "SessionId": "AI1",
+          "SessionId": "DATA2",
           "Time": "10:30 AM - 11:30 AM",
           "Title": "Building and Operationalizing your Data Integration Workflow at Scale in the Cloud",
           "Speaker": {
@@ -366,14 +366,26 @@
             }
           }
         },
-      
+        {
+          "SessionId": "DATA7",
+          "Time": "11:30 AM - 12:30 AM",
+          "Title": "Azure SQL Database Administration and Management",
+          "Speaker": {
+            "Name": "Dharmendra",
+            "Description": "",
+            "ImageUrl": "~/images/unknown.jpg",
+            "Social": {
+              "Twitter": ""
+            }
+          }
+        },
         {
           "SessionId": "Common6",
           "Time": "12:30 PM - 1:15 PM",
           "Title": "Lunch"
         },
         {
-          "SessionId": "DATA4",
+          "SessionId": "DATA3",
           "Time": "01:15 PM - 2:15 PM",
           "Title": "Azure API Management ",
           "Speaker": {
@@ -386,7 +398,7 @@
           }
         },
         {
-          "SessionId": "DATA5",
+          "SessionId": "DATA4",
           "Time": "02:15 PM - 3:15 PM",
           "Title": "Mobile + AI",
           "Speaker": {
@@ -404,7 +416,7 @@
           "Title": "Break"
         },
         {
-          "SessionId": "DATA6",
+          "SessionId": "DATA5",
           "Time": "3:30 PM - 4:30 PM",
           "Title": "Showcase Azure IoT device Management, Communication and Security",
           "Speaker": {
@@ -417,7 +429,7 @@
           }
         },
         {
-          "SessionId": "DATA7",
+          "SessionId": "DATA6",
           "Time": "4:30 PM - 5:30 PM",
           "Title": "Lessons learnt along Microsoft’s DevOps journey",
           "Speaker": {
@@ -455,7 +467,7 @@
           "Time": "9:15 AM - 9:30 AM",
           "Title": "Break"
         },
-      
+
         {
           "SessionId": "AI1",
           "Time": "9:30 AM - 10:30 AM",
@@ -483,7 +495,7 @@
           }
         },
         {
-          "SessionId": "DATA2",
+          "SessionId": "AI3",
           "Time": "11:30 AM - 12:30 PM",
           "Title": "Azure Automation to Create On-demand SharePoint's Private build",
           "Speaker": {
