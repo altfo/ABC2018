@@ -224,7 +224,7 @@
         },
         {
           "SessionId": "ITPRO2",
-          "Time": "10:30 PM - 11:30 PM",
+          "Time": "10:30 AM - 11:30 AM",
           "Title": "Nuts and Bolts - Infrstructure",
           "Speaker": {
             "Name": "Faizal",
@@ -237,7 +237,7 @@
         },
         {
           "SessionId": "ITPRO3",
-          "Time": "11:30 PM - 12:30 PM",
+          "Time": "11:30 AM - 12:30 PM",
           "Title": "Nuts and Bolts - Apps and Data",
           "Speaker": {
             "Name": "Puneet Ghanshani",
@@ -368,7 +368,7 @@
         },
         {
           "SessionId": "DATA7",
-          "Time": "11:30 AM - 12:30 AM",
+          "Time": "11:30 AM - 12:30 PM",
           "Title": "Azure SQL Database Administration and Management",
           "Speaker": {
             "Name": "Dharmendra",
@@ -483,7 +483,7 @@
         },
         {
           "SessionId": "AI2",
-          "Time": "10:30 AM - 11:30 PM",
+          "Time": "10:30 AM - 11:30 AM",
           "Title": "Hands On Lab - Blockchain: For pre-requisite please check https://www.meetup.com/mssgug/events/247698333/",
           "Speaker": {
             "Name": "Ujjwal Kumar",
