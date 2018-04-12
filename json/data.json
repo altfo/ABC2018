@@ -514,7 +514,7 @@
         },
         {
           "SessionId": "AI4",
-          "Time": "01:15 PM - 2:15 PM",
+          "Time": "1:15 PM - 2:15 PM",
           "Title": "Hands on Workshop on Azure machine learning and Cognitive services",
           "Speaker": {
             "Name": "Setu Chokshi",
@@ -527,7 +527,7 @@
         },
         {
           "SessionId": "AI5",
-          "Time": "02:15 PM - 3:15 PM",
+          "Time": "2:15 PM - 3:15 PM",
           "Title": "Hands on Workshop on Azure machine learning and Cognitive services"
         },
         {
