@@ -121,7 +121,7 @@
           }
         },
         {
-          "SessionId": "Session9",
+          "SessionId": "Common20",
           "Time": "12:30 PM - 1:15 PM",
           "Title": "Panel Discussion (L21 Room MR01): Ace your Azure Certification : Preparation and Insights",
           "Speaker": {
@@ -411,7 +411,7 @@
           "Title": "Mobile + AI",
           "Speaker": {
             "Name": "Nguyen Nhu Hieu",
-            "Description": "Microsoft",
+            "Description": "Nguyen Nhu Hieu (Partner Technical Solutions Professional, App Innovation, Microsoft Asia Timezone). Hieu is an experienced Mobile Developer (iOS, Android, Xamarin, and React Native) with a demonstrated history of working in the computer software industry. He leads the Xamarin Vietnam user group and has an engineering background in robotics & AI. Hieu is currently focusing on helping Microsoft partners to successfully deliver their Applications on Azure in Asia.",
             "ImageUrl": "https://scontent.fkul10-1.fna.fbcdn.net/v/t1.0-9/19030617_10155177868250664_1358839569462258394_n.jpg?oh=026ef3ba6373e3252dab793403b14fdb&oe=5B496B8D",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/nguyennhuhieu/"
