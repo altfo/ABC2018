@@ -114,7 +114,7 @@
           "Title": "Using Azure Functions and Logic App to monitor and trade Cryptocurrencies",
           "Speaker": {
             "Name": "Tan Chun Siong",
-            "Description": "Microsoft",
+            "Description": "Chun Siong is a Sr. Technical Evangelist in Microsoft has been evangelizing to early adopters on technologies since the days of Rich Internet applications with geospatial capabilities, rich client application controlled by Natural User Interface, and Mobile App development with near field communication capabilities. In the past 12 months, he has been focusing on Cloud Computing, IoT, Beacons, AI as a service, Chatbot and 3D Printing.",
             "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/chun.jpg",
             "Social": {
               "Twitter": "https://sg.linkedin.com/in/tanchunsiong"
@@ -518,8 +518,8 @@
           "Title": "Hands on Workshop on Azure machine learning and Cognitive services",
           "Speaker": {
             "Name": "Setu Chokshi",
-            "Description": "Azure MVP",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/unknown.jpg",
+            "Description": "Setu is Microsoft MVP for AI. He is  currently the Head of Data Science at PropertyGuru. He has had over 10 years of experience in building and deploying enterprise level machine learning solutions.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/setu.jpg",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/setuchokshi/"
             }
