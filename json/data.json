@@ -10,7 +10,6 @@
     "Facebook": "https://www.facebook.com/groups/MSTechCommunitiesSG/",
     "Website": ""
   },
-
   "Campaigns": [
     {
       "Text": "Survey",
@@ -24,7 +23,7 @@
       "ImageUrl": "http://singapore.azurebootcamp.net/images/faizal.png",
       "Social": {
         "Blog": "",
-        "Twitter": "http://www.twitter.com/"
+        "Twitter": "http://www.twitter.com/kmdfaizal"
       }
     },
     {
@@ -122,10 +121,19 @@
           }
         },
         {
-          "SessionId": "Common6",
+          "SessionId": "Session9",
           "Time": "12:30 PM - 1:15 PM",
-          "Title": "Lunch"
+          "Title": "Panel Discussion (L21 Room MR01): Ace your Azure Certification : Preparation and Insights",
+          "Speaker": {
+            "Name": "Saranya Sriram",
+            "Description": "Saranya is a Cloud Solution Architect Lead in APAC Partner’s organization at Microsoft, leading a team of CSAs to help Partners migration applications and solutions into Azure platform. Saranya, herself is a technical enthusiast and hands on various parts of Application innovation and development. She is  a regular speaker at Microsoft Summits, keynote speaker demos, and speakers at Tech Summit, as well as a variety of 3rd party cloud events and conferences, specifically she has been presenting in Global Azure Bootcamp consecutively for 5 years now.",
+            "ImageUrl": "https://pbs.twimg.com/profile_images/844841873206231040/El5Umps-_400x400.jpg",
+            "Social": {
+              "Twitter": "https://www.twitter.com/sharan779/"
+            }
+          }
         },
+
         {
           "SessionId": "Session4",
           "Time": "1:15 PM - 2:15 PM",
@@ -258,13 +266,13 @@
         {
           "SessionId": "ITPRO4",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "Azure Security Center ",
+          "Title": "Azure as a digital tranformation agent",
           "Speaker": {
-            "Name": "Sakthis Kumar",
-            "Description": "Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
-            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/sakthis.png",
+            "Name": "Sarbjit Gill",
+            "Description": "Growing up, I have been intrigued with the extraordinary things ordinary people do, automotive machines like bikes, trains, cars and ships, and technology that is transforming the world.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/gill.jpg",
             "Social": {
-              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/5002387?fullName=Sakthis%20%20Kumar"
+              "Twitter": "https://www.linkedin.com/in/sarbjitsinghgill/"
             }
           }
         },
@@ -372,10 +380,10 @@
           "Title": "Azure SQL Database Administration and Management",
           "Speaker": {
             "Name": "Dharmendra",
-            "Description": "",
-            "ImageUrl": "~/images/unknown.jpg",
+            "Description": "Dharmendra Keshari is a Microsoft Data Platform MVP; currently working as Senior Database Administrator for Micron Technology, Inc, Singapore. He is so much fascinated by Database engine and its complexities, he made it as part and parcel of his life. Dharmendra likes working on Database internals, SQL Server memory and has good knowledge  on performance troubleshooting of SQL Server. He is an avid, regular mentor on social media, helping several enthusiast in solving problems related to Database management. As a active member of SQL Server community, Dharmendra leads Singapore SQL Server Pass Chapter (User group). He continues to deliver sessions across the globe educating people on Microsoft Data Platform and blogs at http://www.dharmendrakeshari.com/",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/dharma.png",
             "Social": {
-              "Twitter": ""
+              "Twitter": "www.twitter.com/sachit_Keshari"
             }
           }
         },
