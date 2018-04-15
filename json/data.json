@@ -184,7 +184,7 @@
           "Title": "Modernize application development with highly scalable architecture using Docker & Azure cloud",
           "Speaker": {
             "Name": "Nilesh Gule",
-            "Description": "Architect with 15 years of industry expereince in multiple domains including Finance, Retail & Healthcare. Active blogger. Bigdata and cloud technologies enthusiasts. Exploring containers and orchestrators with focus on Docker & Kubernetes. Technology is my passion & Striving for excellence is my motto.",
+            "Description": "Architect with 15 years of industry experience in multiple domains including Finance, Retail & Healthcare. Active blogger. Bigdata and cloud technologies enthusiasts. Exploring containers and orchestrators with focus on Docker & Kubernetes. Technology is my passion & Striving for excellence is my motto.",
             "ImageUrl": "https://lh3.googleusercontent.com/-vc7HpCX3kvU/AAAAAAAAAAI/AAAAAAAAIEk/zMH51lPvQwI/s120-p-no/photo.jpg",
             "Social": {
               "Twitter": "https://www.handsonarchitect.com"
@@ -233,7 +233,7 @@
         {
           "SessionId": "ITPRO2",
           "Time": "10:30 AM - 11:30 AM",
-          "Title": "Nuts and Bolts - Infrstructure",
+          "Title": "Nuts and Bolts - Infrastructure",
           "Speaker": {
             "Name": "Faizal",
             "Description": "Mohamed Faizal, Technology Specialist. Microsoft. High achieving, persuasive, adaptable & innovative problem solver with 20 years of experience with MNCs like Microsoft, Cognizant, Dimension Data & NCS. Specialist in consultative selling, pre-sales, alliances and partnership building.",
@@ -266,7 +266,7 @@
         {
           "SessionId": "ITPRO4",
           "Time": "1:15 PM - 2:15 PM",
-          "Title": "Azure as a digital tranformation agent",
+          "Title": "Azure as a digital transformation agent",
           "Speaker": {
             "Name": "Sarbjit Gill",
             "Description": "Growing up, I have been intrigued with the extraordinary things ordinary people do, automotive machines like bikes, trains, cars and ships, and technology that is transforming the world.",
@@ -556,18 +556,19 @@
               "Twitter": "http://www.twitter.com/altfo"
             }
           }
+
         },
         {
           "SessionId": "AI7",
           "Time": "4:30 PM - 5:30 PM",
           "Title": "Managing Azure Infrastructure - HOL",
           "Speaker": {
-            "Name": "Senthamil Selvan",
-            "Description": "Microsoft Windows Dev MVP. Have experience in developing apps for windows platform. Developed several UWP apps and currently working on HoloLens apps.",
-            "ImageUrl": "http://singapore.azurebootcamp.net/images/sen.jpg",
+            "Name": "Sakthis Kumar",
+            "Description": "Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/sakthis.png",
             "Social": {
-              "Blog": "http://altfo.wordpress.com",
-              "Twitter": "http://www.twitter.com/altfo"
+              "Blog": "",
+              "Twitter": "http://www.twitter.com/sakthis"
             }
           }
         },
