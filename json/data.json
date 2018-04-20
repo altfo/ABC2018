@@ -269,7 +269,7 @@
           "Title": "Azure as a digital transformation agent",
           "Speaker": {
             "Name": "Sarbjit Gill",
-            "Description": "Growing up, I have been intrigued with the extraordinary things ordinary people do, automotive machines like bikes, trains, cars and ships, and technology that is transforming the world.",
+            "Description": "Sarbjit has been a MVP since 2005 for System Center, SharePoint and Skype for Business for 14 years. He is now a rMVP. I have 25 years of IT experience covering, coding, testing, IT operations, strategy, design, architecting, training, speaking at conference for product launch, beta previews, C level engagements, white boarding, business strategy based on technology. I worked with small companies to the largest in the world and learnt how they used technology and what worked and what did not.   This allows me to talk passionately about whole spectrum of IT in a business,  driving towards a complete overhaul of what is  and what could be. I recently spoke in Lithuania in a startup incubator, Rise Vilnius. I have also advised at BLK 71, NUS startup events. His goals now is to run his own startup, bring tech communities together across the world for the benefit of economies and mankind.",
             "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/gill.jpg",
             "Social": {
               "Twitter": "https://www.linkedin.com/in/sarbjitsinghgill/"
@@ -279,13 +279,14 @@
         {
           "SessionId": "ITPRO5",
           "Time": "2:15 PM - 3:15 PM",
-          "Title": "Make Your PaaS Deployment More Safe",
+          "Title": "Azure Security Center",
           "Speaker": {
-            "Name": "Thuan Nguyen",
-            "Description": "Thuan is a Microsoft MVP since 2011 with nearly 10 years  experiences extensively on Microsoft stack. Thuan is passionate about software product and security engineering on cloud. He is now focusing on developing Practical Transformation Framework and Methodology for Datacenter, Large-scale and Mass Migration to Microsoft Azure",
-            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/thuan.jpg",
+            "Name": "Sakthis Kumar",
+            "Description": "Sakthis is Microsoft Azure MVP with 18+ years of experience primarily on Microsoft Technologies and passionate about Cloud Computing, Cloud Security.",
+            "ImageUrl": "https://raw.githubusercontent.com/altfo/ABC2018/master/person/sakthis.png",
             "Social": {
-              "Twitter": "https://mvp.microsoft.com/en-us/PublicProfile/4033607"
+              "Blog": "",
+              "Twitter": "http://www.twitter.com/sakthis"
             }
           }
         },
