@@ -83,7 +83,7 @@
         },
         {
           "SessionId": "Session1",
-          "Time": "9:30 AM - 10:30 AM",
+          "Time": "10:00 AM - 11:00 AM",
           "Title": "Azure Services for Mobile Developers",
           "Speaker": {
             "Name": "Mayur Tendulkar",
@@ -96,7 +96,7 @@
         },
         {
           "SessionId": "Session2",
-          "Time": "10:30 AM - 11:30 AM",
+          "Time": "11:00 AM - 12:00 PM",
           "Title": "Designing and Deploying Microservices Architecture on Azure",
           "Speaker": {
             "Name": "Wely Lau",
@@ -109,7 +109,7 @@
         },
         {
           "SessionId": "Session3",
-          "Time": "11:30 AM - 12:30 PM",
+          "Time": "12:00 PM - 1:00 PM",
           "Title": "Using Azure Functions and Logic App to monitor and trade Cryptocurrencies",
           "Speaker": {
             "Name": "Tan Chun Siong",
@@ -122,7 +122,7 @@
         },
         {
           "SessionId": "Common20",
-          "Time": "12:30 PM - 1:15 PM",
+          "Time": "1:00 PM - 1:30 PM",
           "Title": "Panel Discussion (L21 Room MR01): Ace your Azure Certification : Preparation and Insights",
           "Speaker": {
             "Name": "Saranya Sriram",
@@ -136,7 +136,7 @@
 
         {
           "SessionId": "Session4",
-          "Time": "1:15 PM - 2:15 PM",
+          "Time": "1:30 PM - 2:20 PM",
           "Title": "You only code once, the Bot",
           "Speaker": {
             "Name": "Sohel Shekha",
@@ -149,7 +149,7 @@
         },
         {
           "SessionId": "Session7",
-          "Time": "2:15 PM - 3:15 PM",
+          "Time": "2:20 PM - 3:05 PM",
           "Title": "Architecting Domain Driven Development for Microservices using Azure Kubernetes Service and .NET Core",
           "Speaker": {
             "Name": "Riza Marhaban",
@@ -162,12 +162,12 @@
         },
         {
           "SessionId": "Common8",
-          "Time": "3:15 PM - 3:30 PM",
+          "Time": "3:05 PM - 3:15 PM",
           "Title": "Break"
         },
         {
           "SessionId": "Session5",
-          "Time": "3:30 PM - 4:30 PM",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "You chose Microsoft Azure, but What’s Next?",
           "Speaker": {
             "Name": "Milton Goh",
@@ -180,7 +180,7 @@
         },
         {
           "SessionId": "Session6",
-          "Time": "4:30 PM - 5:30 PM",
+          "Time": "4:00 PM - 4:45 PM",
           "Title": "Modernize application development with highly scalable architecture using Docker & Azure cloud",
           "Speaker": {
             "Name": "Nilesh Gule",
@@ -193,7 +193,7 @@
         },
         {
           "SessionId": "Common9",
-          "Time": "5:30 PM - 6:00 PM",
+          "Time": "5:00 PM - 5:45 PM",
           "Title": "Closing"
         }
       ]
@@ -219,7 +219,7 @@
         },
         {
           "SessionId": "ITPRO1",
-          "Time": "9:30 AM - 10:30 AM",
+          "Time": "10:00 AM - 11:00 AM",
           "Title": "Hybrid Cloud Practices",
           "Speaker": {
             "Name": "Anand",
@@ -232,7 +232,7 @@
         },
         {
           "SessionId": "ITPRO2",
-          "Time": "10:30 AM - 11:30 AM",
+          "Time": "11:00 AM - 12:00 PM",
           "Title": "Nuts and Bolts - Infrastructure",
           "Speaker": {
             "Name": "Faizal",
@@ -245,7 +245,7 @@
         },
         {
           "SessionId": "ITPRO3",
-          "Time": "11:30 AM - 12:30 PM",
+          "Time": "12:00 PM - 1:00 PM",
           "Title": "Nuts and Bolts - Apps and Data",
           "Speaker": {
             "Name": "Puneet Ghanshani",
@@ -260,12 +260,12 @@
         },
         {
           "SessionId": "Common6",
-          "Time": "12:30 PM - 1:15 PM",
+          "Time": "1:00 PM - 1:30 PM",
           "Title": "Lunch"
         },
         {
           "SessionId": "ITPRO4",
-          "Time": "1:15 PM - 2:15 PM",
+          "Time": "1:30 PM - 2:20 PM",
           "Title": "Azure as a digital transformation agent",
           "Speaker": {
             "Name": "Sarbjit Gill",
@@ -278,7 +278,7 @@
         },
         {
           "SessionId": "ITPRO5",
-          "Time": "2:15 PM - 3:15 PM",
+          "Time": "2:20 PM - 3:05 PM",
           "Title": "Azure Security Center",
           "Speaker": {
             "Name": "Sakthis Kumar",
@@ -293,12 +293,12 @@
 
         {
           "SessionId": "Common8",
-          "Time": "3:15 PM - 3:30 PM",
+          "Time": "3:05 PM - 3:15 PM",
           "Title": "Break"
         },
         {
           "SessionId": "ITPRO6",
-          "Time": "3:30 PM - 4:30 PM",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "Azure DevOps with VSTS",
           "Speaker": {
             "Name": "Kenneth Ham",
@@ -312,7 +312,7 @@
 
         {
           "SessionId": "ITPRO7",
-          "Time": "4:30 PM - 5:30 PM",
+          "Time": "4:00 PM - 4:45 PM",
           "Title": "Azure Hyper Cloud Network Design",
           "Speaker": {
             "Name": "Yinghao Li",
@@ -325,14 +325,14 @@
         },
         {
           "SessionId": "Common9",
-          "Time": "5:30 PM - 6:00 PM",
+          "Time": "5:00 PM - 5:45 PM",
           "Title": "Closing"
         }
       ]
     },
     {
       "Day": "21 April 2018",
-      "Name": "Track 3 (Room - L22 CF12)",
+      "Name": "Track 3 (Room - L22 CF15)",
       "Sessions": [
         {
           "SessionId": "Common1",
@@ -351,7 +351,7 @@
         },
         {
           "SessionId": "DATA1",
-          "Time": "9:30 AM - 10:30 AM",
+          "Time": "10:00 AM - 11:00 AM",
           "Title": "Building scalable distributed apps using an Azure CosmosDB",
           "Speaker": {
             "Name": "Saranya Sriram",
@@ -364,7 +364,7 @@
         },
         {
           "SessionId": "DATA2",
-          "Time": "10:30 AM - 11:30 AM",
+          "Time": "11:00 AM - 12:00 PM",
           "Title": "Building and Operationalizing your Data Integration Workflow at Scale in the Cloud",
           "Speaker": {
             "Name": "Shirley Wang",
@@ -377,7 +377,7 @@
         },
         {
           "SessionId": "DATA7",
-          "Time": "11:30 AM - 12:30 PM",
+          "Time": "12:00 PM - 1:00 PM",
           "Title": "Azure SQL Database Administration and Management",
           "Speaker": {
             "Name": "Dharmendra",
@@ -390,12 +390,12 @@
         },
         {
           "SessionId": "Common6",
-          "Time": "12:30 PM - 1:15 PM",
+          "Time": "1:00 PM - 1:30 PM",
           "Title": "Lunch"
         },
         {
           "SessionId": "DATA3",
-          "Time": "1:15 PM - 2:15 PM",
+          "Time": "1:30 PM - 2:20 PM",
           "Title": "Azure API Management ",
           "Speaker": {
             "Name": "Ben Ishiyama-Levy",
@@ -408,7 +408,7 @@
         },
         {
           "SessionId": "DATA4",
-          "Time": "2:15 PM - 3:15 PM",
+          "Time": "2:20 PM - 3:05 PM",
           "Title": "Mobile + AI",
           "Speaker": {
             "Name": "Nguyen Nhu Hieu",
@@ -421,12 +421,12 @@
         },
         {
           "SessionId": "Common8",
-          "Time": "3:15 PM - 3:30 PM",
+          "Time": "3:05 PM - 3:15 PM",
           "Title": "Break"
         },
         {
           "SessionId": "DATA5",
-          "Time": "3:30 PM - 4:30 PM",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "Showcase Azure IoT device Management, Communication and Security",
           "Speaker": {
             "Name": "Joakim Rylander",
@@ -439,7 +439,7 @@
         },
         {
           "SessionId": "DATA6",
-          "Time": "4:30 PM - 5:30 PM",
+          "Time": "4:00 PM - 4:45 PM",
           "Title": "Lessons learnt along Microsoft’s DevOps journey",
           "Speaker": {
             "Name": "Louis Leong",
@@ -452,14 +452,14 @@
         },
         {
           "SessionId": "Common9",
-          "Time": "5:30 PM - 6:00 PM",
+          "Time": "5:00 PM - 5:45 PM",
           "Title": "Closing"
         }
       ]
     },
     {
       "Day": "21 April 2018",
-      "Name": "Track 4 (Room - L22 CF15)",
+      "Name": "Track 4 (Room - L22 CF12)",
       "Sessions": [
         {
           "SessionId": "Common1",
@@ -479,7 +479,7 @@
 
         {
           "SessionId": "AI1",
-          "Time": "9:30 AM - 10:30 AM",
+          "Time": "10:00 AM - 11:00 AM",
           "Title": "Building real world Blockchain applications on Azure",
           "Speaker": {
             "Name": "Ujjwal Kumar",
@@ -492,7 +492,7 @@
         },
         {
           "SessionId": "AI2",
-          "Time": "10:30 AM - 11:30 AM",
+          "Time": "11:00 AM - 12:00 PM",
           "Title": "Hands On Lab - Blockchain: For pre-requisite please check https://www.meetup.com/mssgug/events/247698333/",
           "Speaker": {
             "Name": "Ujjwal Kumar",
@@ -505,7 +505,7 @@
         },
         {
           "SessionId": "AI3",
-          "Time": "11:30 AM - 12:30 PM",
+          "Time": "12:00 PM - 1:00 PM",
           "Title": "Azure Automation to Create On-demand SharePoint's Private build",
           "Speaker": {
             "Name": "Riwut Libinuko",
@@ -518,12 +518,12 @@
         },
         {
           "SessionId": "Common6",
-          "Time": "12:30 PM - 1:15 PM",
+          "Time": "1:00 PM - 1:30 PM",
           "Title": "Lunch"
         },
         {
           "SessionId": "AI4",
-          "Time": "1:15 PM - 2:15 PM",
+          "Time": "1:30 PM - 2:20 PM",
           "Title": "Hands on Workshop on Azure machine learning and Cognitive services",
           "Speaker": {
             "Name": "Setu Chokshi",
@@ -536,17 +536,17 @@
         },
         {
           "SessionId": "AI5",
-          "Time": "2:15 PM - 3:15 PM",
+          "Time": "2:20 PM - 3:05 PM",
           "Title": "Hands on Workshop on Azure machine learning and Cognitive services"
         },
         {
           "SessionId": "Common8",
-          "Time": "3:15 PM - 3:30 PM",
+          "Time": "3:05 PM - 3:15 PM",
           "Title": "Break"
         },
         {
           "SessionId": "AI6",
-          "Time": "3:30 PM - 4:30 PM",
+          "Time": "3:15 PM - 4:00 PM",
           "Title": "Managing Azure Infrastructure - HOL",
           "Speaker": {
             "Name": "Senthamil Selvan",
@@ -561,7 +561,7 @@
         },
         {
           "SessionId": "AI7",
-          "Time": "4:30 PM - 5:30 PM",
+          "Time": "4:00 PM - 4:45 PM",
           "Title": "Managing Azure Infrastructure - HOL",
           "Speaker": {
             "Name": "Sakthis Kumar",
@@ -575,7 +575,7 @@
         },
         {
           "SessionId": "Common9",
-          "Time": "5:30 PM - 6:00 PM",
+          "Time": "5:00 PM - 5:45 PM",
           "Title": "Closing"
         }
       ]
